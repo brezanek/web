@@ -12,7 +12,7 @@ sections:
 - type: directory
   path: content//kempy
   label: Kempy
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content//novinky

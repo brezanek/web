@@ -1,0 +1,22 @@
+---
+label: Šablona pro kurzy
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: linktitle
+  label: linktitle
+- type: number
+  name: weight
+  label: weight
+- type: datetime
+  name: publishDate
+  label: publishDate
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: file
+  name: obrazek
+  label: obrazek

@@ -6,14 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: content/kempy
-  label: Kempíčky
-  create: documents
-  match: "**/*"
-- type: directory
-  path: content//kempy
   label: Kempy
   create: documents
   match: "**/*"
+  templates:
+  - sablona-pro-kurzy
 - type: directory
   path: content//novinky
   label: Novinky
@@ -24,6 +21,11 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: directory
+  path: content//kempy
+  label: KempyX
+  create: documents
+  match: "**/*"
 upload_dir: static
 public_path: ''
 front_matter_path: ''

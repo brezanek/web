@@ -12,7 +12,7 @@ sections:
   templates:
   - sablona-pro-kurzy
 - type: directory
-  path: content//novinky
+  path: content/novinky
   label: Novinky
   create: all
   match: "**/*"
@@ -22,7 +22,7 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content//kempy
+  path: content/kempy
   label: KempyX
   create: documents
   match: "**/*"

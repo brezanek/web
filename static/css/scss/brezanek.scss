@@ -1,0 +1,15 @@
+/* import YAML core styles */
+@import url(yaml/core/slim_base.css);
+
+// import Compass modules
+@import "modules/border-radius.scss";
+@import "modules/box-shadow.scss";
+@import "modules/transform.scss";
+
+// import screen layout
+@import "partials/basemod.scss";
+@import "partials/content.scss";
+@import "partials/menu.scss";
+
+// import print layout
+@import url(yaml/print/print_100_draft.css);

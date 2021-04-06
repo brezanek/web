@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html class="no-js" lang="cs">
+	<head>
+	{{ partial "head" . }}
+	</head>
+	<body>
+		{{ partial "header" . }}
+		<div class="row">    
+			<div class="large-9 large-push-3 columns">
+				{{ block "main" . }}{{ end }}
+			</div>
+			{{ partial "leftcol" . }}
+		</div>
+		{{ partial "footer" . }}
+	</body>
+</html>

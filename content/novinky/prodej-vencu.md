@@ -1,0 +1,10 @@
++++
+title = "Prodej adventrních věnců"
+linktitle = "prodej-vencu"
+draft = true
+publishDate = "1970-01-01"
+lastmod = "2019-12-02"
+obrazek = ""
++++
+
+![](assets/2-obrazky/ilustrace/2019-11-27_Prodej_věnců.jpg)

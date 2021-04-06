@@ -1,0 +1,328 @@
+// plocha
+$plocha-pozadi-barva: white;
+$plocha-pozadi-obr: "../images/paper.jpg";
+
+// hlavni boxy uprostred
+$stred-box-ramecek: #FB4D0D;
+$stred-box-pozadi: #EFFFBF;
+$stred-box-nadpis: #006D84;
+
+// postranni boxy
+$postr-box-ramecek: #94BD15;
+$postr-box-pozadi: #E8FF9F;
+$postr-box-nadpis: black;
+
+// postranni menu (vlevo)
+$lmenu-ramecek: $postr-box-ramecek;
+$lmenu-pozadi-1: $postr-box-ramecek;
+$lmenu-pozadi-1-hover: $postr-box-ramecek;
+$lmenu-pismo-1: black;
+
+$zaobleni: 10px;
+
+@import "modules/transform.scss";
+
+@media screen, projection
+{
+ 
+  // Forcing vertical scrollbars in IE8, Firefox, Webkit & Opera 
+  
+  // @workaround
+  // @affected IE8, FF, Webkit, Opera
+  // @css-for all
+  // @valid CSS3
+
+  body { overflow-y: scroll; }
+
+  //-------------------------------------------------------------------------
+
+  // Marginal areas & page background 
+  
+  body { 
+	background-color: $plocha-pozadi-barva;
+	//background-image: url("../images/trava3.jpg"), url($plocha-pozadi-obr);
+	background-image:  url($plocha-pozadi-obr);
+	//background-repeat: repeat-x, repeat;
+	background-repeat: repeat;
+	//background-position: top left, top left;
+	background-position: top left;
+
+    padding: 10px 0; 
+  } 
+
+  // Layout Alignment | Layout-Ausrichtung 
+  .page_margins { margin: 0 auto; }
+
+  // Layout Properties | Layout-Eigenschaften 
+  .page_margins { width: 1000px; }
+  .page { padding: 10px; }
+  #header { position:relative; padding: 45px 2em 1em 20px; color: #000;
+  	background: transparent;
+  	background-position: bottom left;
+  	@include border-radius($zaobleni);
+  }
+  #topnav { position:absolute; top:10px; right:10px; text-align:right; color: #aaa; background: transparent; }
+  #nav { overflow:hidden; 
+  	margin-top: 10px;
+  	text-align: right;
+  }
+  #main { margin: 10px 0;
+  }
+  #footer { padding: 10px 20px; color:#666; }
+
+  // navigation: horizontal adjustment
+  #nav ul { margin-left: 20px; }
+
+  //-------------------------------------------------------------------------
+
+  // Formatting content container
+  
+  #main { float: left; width: 100% }
+  #col1 { float: left; width: 590px;  margin: 0 0 0 200px }
+  #col2 { float: left; width: 200px;  margin: 0 0 0 -790px }
+  #col3 { float: right; width: 190px; margin-left: -5px; margin-right: 0; }
+  #col1_content { padding: 0 10px }
+  #col2_content { padding: 0 10px 0 20px }
+  #col3_content { padding: 0 20px 0 10px }
+	
+  //-------------------------------------------------------------------------
+  
+  #hledani {
+  	margin-bottom: 10px;
+  	margin-top: 15px;
+	float: right;
+  }
+  
+  #hledani #hledani_input {
+  	padding-left: 5px;
+  	@include border-radius($zaobleni);
+  }
+  
+  #logo {
+  	position:absolute; 
+  	bottom:40px; 
+  	left:230px;
+  }
+  
+  // obrázky 
+  #beruska1 {
+  	position: absolute;
+  	bottom: -25px;
+  	left: 330px;
+  	@include scale(0.7);
+  }
+  
+  #beruska2 {
+  	position: absolute;
+  	bottom: -15px;
+  	left: 400px;
+	@include rotate(60deg);
+  }
+  
+  #pampeliska1 {
+  	position: absolute;
+  	bottom: -40px;
+  	left: 100px;
+  	@include scale(0.7);
+  }
+  
+  #pampeliska2 {
+  	position: absolute;
+  	bottom: -25px;
+  	right: 180px;
+	@include scale2(-0.9,0.9);
+  }
+  
+  #snek {
+  	position: absolute;
+  	top: 85px;
+  	right: 50px;
+  }
+  
+  #mrak1 {
+  	position: absolute;
+  	top: 10px;
+  	left: 20px;
+  }
+  
+  #mrak2 {
+  	position: absolute;
+  	top: -50px;
+  	right: 200px;
+	@include scale(-1.5);
+  }
+  
+  #col3_content { padding: 0 7px 0 9px }
+  
+  #sponzori_box, #odkazy_box, #anketa_box {
+  	margin: 0 auto;
+   	margin-bottom: 15px;
+ 	padding: 0 0 8px 0;
+  	text-align: center;
+  	background: $postr-box-pozadi;
+  	border: 3px solid $postr-box-ramecek;
+  	@include border-radius($zaobleni);
+  	@include box-shadow(#888, 10px, 10px, 5px);
+  }
+  
+  #odkazy_box, #anketa_box {
+  	margin-top: 15px;
+  }
+    
+  #anketa_box #anketa_otazka, #anketa_box #anketa_odpovedi{
+  	padding-left: 8px;
+  	text-align: left;
+  }
+  
+  #sponzori_nadpis, #odkazy_box h3, #anketa_box h3 {
+  	color: black;
+  	background: $postr-box-ramecek;
+  }
+  
+  #odkazy_box .dop_odkaz {
+  	margin-left: 8px;
+  	text-align: left;
+  }
+  
+  .sponzor {
+  	padding: 5px 2px 0 2px;
+  }
+  
+  .clanek {
+  	margin: 0 auto 10px;
+  	padding: 3px 5px;
+  	background: $stred-box-pozadi;
+  	border: 3px solid $stred-box-ramecek;
+  	@include border-radius($zaobleni);
+  	@include box-shadow(#888, 10px, 10px, 5px);
+  }
+  
+  .clanek h2 {
+  	color: $stred-box-nadpis;
+  	padding-left: 40px; // for the sun icon 
+  	border-bottom: 3px solid $stred-box-ramecek;
+  	background: transparent url("../images/slunicko_male.png") no-repeat;
+  }
+  
+  #left_menu_box {
+  	padding: 10px 0;
+  	background: $lmenu-ramecek;
+  	border: 3px solid $lmenu-ramecek;
+  	@include border-radius($zaobleni);
+  	@include box-shadow(#888, 10px, 10px, 5px);
+  }
+  
+  #header h1 {
+	font-size: 20px;
+  	text-align: center;
+	margin-bottom: 50px;
+  }
+  
+  #header #nadpis {
+  	position:absolute; 
+  	bottom:-21px; 
+  	left:240px;
+  }
+
+  #header #social {
+  	position:absolute; 
+  	top:-30px; 
+  	right:20px;
+  }
+  
+  #header {
+	margin-top: 20px;
+	height: 50px;
+  }
+  
+  #topnav {
+	top: 0;
+  }
+  
+  #mcb_footer {
+  	text-align: center;
+  }
+  
+  #yaml_footer {
+  	text-align: right;
+  }
+  
+  // div pro horní obrázek
+  
+  #top_img {
+  	display: block;
+    // set the div in the top-left corner of the screen
+    position:absolute;
+    top:0;
+    left:0;
+    //set the width and height to 100% of the screen
+    width:100%;
+    height:165px;
+    
+    background: url("../images/trava-km.jpg") repeat-x;  // for IE < 9 
+    background: url("../images/kyt-mot.png") left bottom repeat-x, url("../images/trava-bg.jpg") repeat-x;
+    //-pie-background: url("../images/kyt-mot.png") left bottom repeat-x, url("../images/trava-bg.jpg") repeat-x;
+  }
+
+  // stránkování
+  .paging {
+  	margin-top: 15px;
+  	border-top: 1px solid #000;
+  	border-bottom: 1px solid #000;
+  }
+  
+  .page_list {  // to je <ul>
+  	text-align: center;
+  	margin: 0 0 0 0;
+  }
+  
+  .page_list li {
+  	list-style: none;
+  	display: inline;
+  }
+  
+   // horní horizontálni menu 
+ 
+  .hlist {
+  	//width: 72%;
+  	float: center;
+	font-weight: bold;
+  	background: transparent;
+  	//margin-right: 200px;
+  	padding-top: 10px;
+  }
+  
+  .hlist ul li {
+  	border-left-style: none;
+  	border-right-style: none;
+  }
+  
+// Credits: Dynamic Drive CSS Library 
+// URL: http://www.dynamicdrive.com/style/ 
+
+.hlist ul{
+padding: 12px 0 7px 0; //12px should equal top padding of "ul li a" below, 7px should equal bottom padding + bottom border of "ul li a" below
+margin: 0;
+text-align: center; //set value to "left", "center", or "right"
+}
+
+.hlist ul li{
+display: inline;
+}
+
+.hlist ul li a{
+color: #494949;
+padding: 2px 3px 4px 3px; //top padding is 6px, bottom padding is 4px
+margin-right: 5px; //spacing between each menu link
+text-decoration: none;
+border-bottom: 3px solid gray; //bottom border is 3px
+}
+
+.hlist ul li a:hover, .hlist ul li a.selected{
+color: #F84C0A;
+border-bottom-color: #F84C0A;
+border-top: 3px solid #F84C0A; //top border is 3px
+}
+
+
+}

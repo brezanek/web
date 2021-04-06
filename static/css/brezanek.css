@@ -1,0 +1,752 @@
+@charset "UTF-8";
+/* import YAML core styles */
+@import url(yaml/core/slim_base.css);
+@media screen, projection {
+  body {
+    overflow-y: scroll; }
+
+  body {
+    background-color: white;
+    background-image: url("../images/paper.jpg");
+    background-repeat: repeat;
+    background-position: top left;
+    padding: 10px 0; }
+
+  .page_margins {
+    margin: 0 auto; }
+
+  .page_margins {
+    width: 1000px; }
+
+  .page {
+    padding: 10px; }
+
+  #header {
+    position: relative;
+    padding: 45px 2em 1em 20px;
+    color: #000;
+    background: transparent;
+    background-position: bottom left;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px; }
+
+  #topnav {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: right;
+    color: #aaa;
+    background: transparent; }
+
+  #nav {
+    overflow: hidden;
+    margin-top: 10px;
+    text-align: right; }
+
+  #main {
+    margin: 10px 0; }
+
+  #footer {
+    padding: 10px 20px;
+    color: #666; }
+
+  #nav ul {
+    margin-left: 20px; }
+
+  #main {
+    float: left;
+    width: 100%; }
+
+  #col1 {
+    float: left;
+    width: 590px;
+    margin: 0 0 0 200px; }
+
+  #col2 {
+    float: left;
+    width: 200px;
+    margin: 0 0 0 -790px; }
+
+  #col3 {
+    float: right;
+    width: 190px;
+    margin-left: -5px;
+    margin-right: 0; }
+
+  #col1_content {
+    padding: 0 10px; }
+
+  #col2_content {
+    padding: 0 10px 0 20px; }
+
+  #col3_content {
+    padding: 0 20px 0 10px; }
+
+  #hledani {
+    margin-bottom: 10px;
+    margin-top: 15px;
+    float: right; }
+
+  #hledani #hledani_input {
+    padding-left: 5px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px; }
+
+  #logo {
+    position: absolute;
+    bottom: 40px;
+    left: 230px; }
+
+  #beruska1 {
+    position: absolute;
+    bottom: -25px;
+    left: 330px;
+    -moz-transform: scale(0.7);
+    -webkit-transform: scale(0.7);
+    -o-transform: scale(0.7);
+    transform: scale(0.7); }
+
+  #beruska2 {
+    position: absolute;
+    bottom: -15px;
+    left: 400px;
+    -moz-transform: rotate(60deg);
+    -webkit-transform: rotate(60deg);
+    -o-transform: rotate(60deg);
+    transform: rotate(60deg); }
+
+  #pampeliska1 {
+    position: absolute;
+    bottom: -40px;
+    left: 100px;
+    -moz-transform: scale(0.7);
+    -webkit-transform: scale(0.7);
+    -o-transform: scale(0.7);
+    transform: scale(0.7); }
+
+  #pampeliska2 {
+    position: absolute;
+    bottom: -25px;
+    right: 180px;
+    -moz-transform: scale(-0.9, 0.9);
+    -webkit-transform: scale(-0.9, 0.9);
+    -o-transform: scale(-0.9, 0.9);
+    transform: scale(-0.9, 0.9); }
+
+  #snek {
+    position: absolute;
+    top: 85px;
+    right: 50px; }
+
+  #mrak1 {
+    position: absolute;
+    top: 10px;
+    left: 20px; }
+
+  #mrak2 {
+    position: absolute;
+    top: -50px;
+    right: 200px;
+    -moz-transform: scale(-1.5);
+    -webkit-transform: scale(-1.5);
+    -o-transform: scale(-1.5);
+    transform: scale(-1.5); }
+
+  #col3_content {
+    padding: 0 7px 0 9px; }
+
+  #sponzori_box, #odkazy_box, #anketa_box {
+    margin: 0 auto;
+    margin-bottom: 15px;
+    padding: 0 0 8px 0;
+    text-align: center;
+    background: #e8ff9f;
+    border: 3px solid #94bd15;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: #888888 10px 10px 5px 0;
+    -webkit-box-shadow: #888888 10px 10px 5px 0;
+    -o-box-shadow: #888888 10px 10px 5px 0;
+    box-shadow: #888888 10px 10px 5px 0; }
+
+  #odkazy_box, #anketa_box {
+    margin-top: 15px; }
+
+  #anketa_box #anketa_otazka, #anketa_box #anketa_odpovedi {
+    padding-left: 8px;
+    text-align: left; }
+
+  #sponzori_nadpis, #odkazy_box h3, #anketa_box h3 {
+    color: black;
+    background: #94bd15; }
+
+  #odkazy_box .dop_odkaz {
+    margin-left: 8px;
+    text-align: left; }
+
+  .sponzor {
+    padding: 5px 2px 0 2px; }
+
+  .clanek {
+    margin: 0 auto 10px;
+    padding: 3px 5px;
+    background: #efffbf;
+    border: 3px solid #fb4d0d;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: #888888 10px 10px 5px 0;
+    -webkit-box-shadow: #888888 10px 10px 5px 0;
+    -o-box-shadow: #888888 10px 10px 5px 0;
+    box-shadow: #888888 10px 10px 5px 0; }
+
+  .clanek h2 {
+    color: #006d84;
+    padding-left: 40px;
+    border-bottom: 3px solid #fb4d0d;
+    background: transparent url("../images/slunicko_male.png") no-repeat; }
+
+  #left_menu_box {
+    padding: 10px 0;
+    background: #94bd15;
+    border: 3px solid #94bd15;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    -moz-box-shadow: #888888 10px 10px 5px 0;
+    -webkit-box-shadow: #888888 10px 10px 5px 0;
+    -o-box-shadow: #888888 10px 10px 5px 0;
+    box-shadow: #888888 10px 10px 5px 0; }
+
+  #header h1 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px; }
+
+  #header #nadpis {
+    position: absolute;
+    bottom: -21px;
+    left: 240px; }
+
+  #header #social {
+    position: absolute;
+    top: -30px;
+    right: 20px; }
+
+  #header {
+    margin-top: 20px;
+    height: 50px; }
+
+  #topnav {
+    top: 0; }
+
+  #mcb_footer {
+    text-align: center; }
+
+  #yaml_footer {
+    text-align: right; }
+
+  #top_img {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 165px;
+    background: url("../images/trava-km.jpg") repeat-x;
+    background: url("../images/kyt-mot.png") left bottom repeat-x, url("../images/trava-bg.jpg") repeat-x; }
+
+  .paging {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000; }
+
+  .page_list {
+    text-align: center;
+    margin: 0 0 0 0; }
+
+  .page_list li {
+    list-style: none;
+    display: inline; }
+
+  .hlist {
+    float: center;
+    font-weight: bold;
+    background: transparent;
+    padding-top: 10px; }
+
+  .hlist ul li {
+    border-left-style: none;
+    border-right-style: none; }
+
+  .hlist ul {
+    padding: 12px 0 7px 0;
+    margin: 0;
+    text-align: center; }
+
+  .hlist ul li {
+    display: inline; }
+
+  .hlist ul li a {
+    color: #494949;
+    padding: 2px 3px 4px 3px;
+    margin-right: 5px;
+    text-decoration: none;
+    border-bottom: 3px solid gray; }
+
+  .hlist ul li a:hover, .hlist ul li a.selected {
+    color: #F84C0A;
+    border-bottom-color: #F84C0A;
+    border-top: 3px solid #F84C0A; } }
+
+/**
+ * "Yet Another Multicolumn Layout" - (X)HTML/CSS Framework
+ *
+ * (en) Uniform design of standard content elements
+ * (de) Einheitliche Standardformatierungen f├╝r die wichtigten Inhalts-Elemente
+ *
+ * @copyright       Copyright 2005-2010, Dirk Jesse
+ * @license         CC-A 2.0 (http://creativecommons.org/licenses/by/2.0/),
+ *                  YAML-C (http://www.yaml.de/en/license/license-conditions.html)
+ * @link            http://www.yaml.de
+ * @package         yaml
+ * @version         3.3
+ * @revision        $Revision:392 $
+ * @lastmodified    $Date:2009-07-05 12:18:40 +0200 (So, 05. Jul 2009) $
+ * @appdef yaml
+ */
+@media all {
+  /**
+  * Fonts
+  *
+  * (en) global settings of font-families and font-sizes
+  * (de) Globale Einstellungen f├╝r Zeichensatz und Schriftgr├Â├čen
+  *
+  * @section content-global-settings
+  */
+  /* (en) reset font size for all elements to standard (16 Pixel) */
+  /* (de) Alle Schriftgr├Â├čen auf Standardgr├Â├če (16 Pixel) zur├╝cksetzen */
+  html * {
+    font-size: 100.01%; }
+
+  /**
+   * (en) reset monospaced elements to font size 16px in all browsers
+   * (de) Schriftgr├Â├če von monospaced Elemente in allen Browsern auf 16 Pixel setzen
+   *
+   * @see: http://webkit.org/blog/67/strange-medium/
+   */
+  textarea, pre, code, kbd, samp, var, tt {
+    font-family: Consolas, "Lucida Console", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier; }
+
+  /* (en) base layout gets standard font size 12px */
+  /* (de) Basis-Layout erh├Ąlt Standardschriftgr├Â├če von 12 Pixeln */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75.00%;
+    color: #444; }
+
+  /*--- Headings | ├ťberschriften ------------------------------------------------------------------------*/
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    color: #222;
+    margin: 0 0 0.25em 0; }
+
+  h1 {
+    font-size: 250%; }
+
+  /* 30px */
+  h2 {
+    font-size: 200%; }
+
+  /* 24px */
+  h3 {
+    font-size: 150%; }
+
+  /* 18px */
+  h4 {
+    font-size: 133.33%; }
+
+  /* 16px */
+  h5 {
+    font-size: 116.67%; }
+
+  /* 14px */
+  h6 {
+    font-size: 116.67%; }
+
+  /* 14px */
+  /* --- Lists | Listen  -------------------------------------------------------------------------------- */
+  ul, ol, dl {
+    line-height: 1.5em;
+    margin: 0 0 1em 1em; }
+
+  ul {
+    list-style-type: disc; }
+
+  ul ul {
+    list-style-type: circle;
+    margin-bottom: 0; }
+
+  ol {
+    list-style-type: decimal; }
+
+  ol ol {
+    list-style-type: lower-latin;
+    margin-bottom: 0; }
+
+  li {
+    margin-left: 0.8em;
+    line-height: 1.5em; }
+
+  dt {
+    font-weight: bold; }
+
+  dd {
+    margin: 0 0 1em 0.8em; }
+
+  /* --- general text formatting | Allgemeine Textauszeichnung ------------------------------------------ */
+  p {
+    line-height: 1.5em;
+    margin: 0 0 1em 0; }
+
+  blockquote, cite, q {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic; }
+
+  blockquote {
+    margin: 0 0 1em 1.6em;
+    color: #666; }
+
+  strong, b {
+    font-weight: bold; }
+
+  em, i {
+    font-style: italic; }
+
+  big {
+    font-size: 116.667%; }
+
+  small {
+    font-size: 91.667%; }
+
+  pre {
+    line-height: 1.5em;
+    margin: 0 0 1em 0; }
+
+  pre, code, kbd, tt, samp, var {
+    font-size: 100%; }
+
+  pre, code {
+    color: #800; }
+
+  kbd, samp, var, tt {
+    color: #666;
+    font-weight: bold; }
+
+  var, dfn {
+    font-style: italic; }
+
+  acronym, abbr {
+    border-bottom: 1px #aaa dotted;
+    font-variant: small-caps;
+    letter-spacing: .07em;
+    cursor: help; }
+
+  sub {
+    vertical-align: sub;
+    font-size: smaller; }
+
+  sup {
+    vertical-align: super;
+    font-size: smaller; }
+
+  hr {
+    color: #fff;
+    background: transparent;
+    margin: 0 0 0.5em 0;
+    padding: 0 0 0.5em 0;
+    border: 0;
+    border-bottom: 1px #eee solid; }
+
+  /*--- Links ----------------------------------------------------------------------------------------- */
+  a {
+    color: #4D87C7;
+    background: transparent;
+    text-decoration: none; }
+
+  a:visited {
+    color: #036; }
+
+  /* (en) maximum constrast for tab focus - change with great care */
+  /* (en) Maximaler Kontrast f├╝r Tab Focus - ├ändern Sie diese Regel mit Bedacht */
+  a:focus {
+    text-decoration: underline;
+    color: #000;
+    background: #fff;
+    outline: 3px #f93 solid; }
+
+  a:hover,
+  a:active {
+    color: #182E7A;
+    text-decoration: underline;
+    outline: 0 none; }
+
+  /* --- images (with optional captions) | Bilder (mit optionaler Bildunterschrift) ------------------ */
+  p.icaption_left {
+    float: left;
+    display: inline;
+    margin: 0 1em 0.15em 0; }
+
+  p.icaption_right {
+    float: right;
+    display: inline;
+    margin: 0 0 0.15em 1em; }
+
+  p.icaption_left img,
+  p.icaption_right img {
+    padding: 0;
+    border: 1px #888 solid; }
+
+  p.icaption_left strong,
+  p.icaption_right strong {
+    display: block;
+    overflow: hidden;
+    margin-top: 2px;
+    padding: 0.3em 0.5em;
+    background: #eee;
+    font-weight: normal;
+    font-size: 91.667%; }
+
+  /**
+   * ------------------------------------------------------------------------------------------------- #
+   *
+   * Generic Content Classes
+   *
+   * (en) standard classes for positioning and highlighting
+   * (de) Standardklassen zur Positionierung und Hervorhebung
+   *
+   * @section content-generic-classes
+   */
+  .highlight {
+    color: #c30; }
+
+  .dimmed {
+    color: #888; }
+
+  .info {
+    background: #f8f8f8;
+    color: #666;
+    padding: 10px;
+    margin-bottom: 0.5em;
+    font-size: 91.7%; }
+
+  .note {
+    background: #efe;
+    color: #040;
+    border: 2px #484 solid;
+    padding: 10px;
+    margin-bottom: 1em; }
+
+  .important {
+    background: #ffe;
+    color: #440;
+    border: 2px #884 solid;
+    padding: 10px;
+    margin-bottom: 1em; }
+
+  .warning {
+    background: #fee;
+    color: #400;
+    border: 2px #844 solid;
+    padding: 10px;
+    margin-bottom: 1em; }
+
+  .float_left {
+    float: left;
+    display: inline;
+    margin-right: 1em;
+    margin-bottom: 0.15em; }
+
+  .float_right {
+    float: right;
+    display: inline;
+    margin-left: 1em;
+    margin-bottom: 0.15em; }
+
+  .center {
+    display: block;
+    text-align: center;
+    margin: 0.5em auto; }
+
+  /**
+   * ------------------------------------------------------------------------------------------------- #
+   *
+   * Tables | Tabellen
+   *
+   * (en) Generic classes for table-width and design definition
+   * (de) Generische Klassen f├╝r die Tabellenbreite und Gestaltungsvorschriften f├╝r Tabellen
+   *
+   * @section content-tables
+   */
+  table {
+    width: auto;
+    border-collapse: collapse;
+    margin-bottom: 0.5em;
+    border-top: 2px #888 solid;
+    border-bottom: 2px #888 solid; }
+
+  table caption {
+    font-variant: small-caps; }
+
+  table.full {
+    width: 100%; }
+
+  table.fixed {
+    table-layout: fixed; }
+
+  th, td {
+    padding: 0.5em; }
+
+  thead th {
+    color: #000;
+    border-bottom: 2px #800 solid; }
+
+  tbody th {
+    background: #e0e0e0;
+    color: #333; }
+
+  tbody th[scope="row"], tbody th.sub {
+    background: #f0f0f0; }
+
+  tbody th {
+    border-bottom: 1px solid #fff;
+    text-align: left; }
+
+  tbody td {
+    border-bottom: 1px solid #eee; }
+
+  tbody tr:hover th[scope="row"],
+  tbody tr:hover tbody th.sub {
+    background: #f0e8e8; }
+
+  tbody tr:hover td {
+    background: #fff8f8; }
+
+  /**
+   * ------------------------------------------------------------------------------------------------- #
+   *
+   * Miscellaneous | Sonstiges
+   *
+   * @section content-misc
+   */
+  /**
+  * (en) Emphasizing external Hyperlinks via CSS
+  * (de) Hervorhebung externer Hyperlinks mit CSS
+  *
+  * @section             content-external-links
+  * @app-yaml-default    disabled
+  */
+  /*
+  #main a[href^="http://www.my-domain.com"],
+  #main a[href^="https://www.my-domain.com"]
+  {
+    padding-left:12px;
+    background-image:url('your_image.gif');
+    background-repeat:no-repeat;
+    background-position:0 0.45em;
+  }
+  */ }
+
+@media screen, projection {
+  ul.menu, ul.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 168px; }
+
+  ul.menu a {
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    outline: 0 none; }
+
+  ul.menu li {
+    margin-top: 1px;
+    margin-right: 10px; }
+
+  ul.menu > li:first-child {
+    border-top: 1px solid white; }
+
+  ul.menu li a, ul.menu ul.menu li a {
+    background: #94BD15;
+    /*#87DF37; #90EF3B;*/
+    /*#006D84;*/
+    /*#333;*/
+    color: black;
+    /*#fff;	*/
+    border-bottom: 1px solid white;
+    padding: 0.5em; }
+
+  ul.menu li a:hover, ul.menu ul.menu li a:hover {
+    background: #E0FF7F;
+    /*#000;*/ }
+
+  ul.menu li ul li a, ul.menu ul.menu li ul li a {
+    background: #ccc;
+    color: #000;
+    padding-left: 20px; }
+
+  ul.menu li ul li a:hover, ul.menu ul.menu li ul li a:hover {
+    background: #aaa;
+    border-left: 5px #FB4D0D solid;
+    padding-left: 15px; }
+
+  ul.menu ul.menu li a:hover {
+    border-left: 0;
+    padding-left: 0.5em; }
+
+  ul.menu ul.menu {
+    border-left: 5px #f00 solid; }
+
+  ul.menu a.active, ul.menu ul.menu li a.active, ul.menu a.active:hover, ul.menu ul.menu li a.active:hover {
+    text-decoration: underline;
+    background: #D5EF86; }
+
+  div.panel {
+    border: 1px #000 solid;
+    padding: 5px;
+    margin-top: 1px; }
+
+  ul.menu div.panel a, ul.menu div.panel li a:hover {
+    display: inline;
+    color: #666;
+    background: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-weight: bold; }
+
+  ul.menu div.panel a:hover {
+    color: #000;
+    text-decoration: underline; } }
+
+@import url(yaml/print/print_100_draft.css);

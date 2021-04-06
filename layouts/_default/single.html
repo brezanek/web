@@ -1,0 +1,7 @@
+{{ define "main" }}
+	<article class="bgwhite">
+		<header><h3>{{ .Title }}</h3></header>
+		{{ .Content }}
+		<div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
+	</article>
+{{ end }}

@@ -1,0 +1,32 @@
+baseURL = "https://www.brezanek.eu/"
+languageCode = "cs-cz"
+title = "Centrum Břežánek - vývoj"
+
+contentDir = "content/"
+defaultContentLanguage = "cs"
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+enableRobotsTXT = true
+#EnableGitInfo = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = false
+      footnote = false
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = false
+      typographer = false
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github-ascii"
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false

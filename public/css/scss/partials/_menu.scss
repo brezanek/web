@@ -1,0 +1,79 @@
+@media screen, projection
+{
+	ul.menu, ul.menu ul {
+	  list-style-type:none;
+	  margin: 0;
+	  padding: 0;
+	  width: 168px; //14em; em dělalo problém při zvětšeném písmu
+	}
+	
+	ul.menu a {
+	  display: block;
+	  text-decoration: none;
+	  font-weight: bold;	
+	  outline: 0 none;
+	}
+	
+	ul.menu li {
+	  margin-top: 1px;
+	  margin-right: 10px;
+	}
+	
+	ul.menu > li:first-child {
+	  border-top: 1px solid white; 
+	}
+	
+	ul.menu li a, ul.menu ul.menu li a {
+	  background: #94BD15; /*#87DF37; #90EF3B;*/ /*#006D84;*/ /*#333;*/
+	  color: black; /*#fff;	*/
+	  border-bottom: 1px solid white; 
+	  padding: 0.5em;
+	}
+	
+	ul.menu li a:hover, ul.menu ul.menu li a:hover {
+	  background: #E0FF7F; /*#000;*/
+	}
+	
+	ul.menu li ul li a, ul.menu ul.menu li ul li a {
+	  background: #ccc;
+	  color: #000;
+	  padding-left: 20px;
+	}
+	
+	ul.menu li ul li a:hover, ul.menu ul.menu li ul li a:hover {
+	  background: #aaa;
+	  border-left: 5px #FB4D0D solid;
+	  padding-left: 15px;
+	}
+	ul.menu ul.menu li a:hover {
+	    border-left: 0;
+	    padding-left: 0.5em;
+	}
+	ul.menu ul.menu {
+	    border-left: 5px #f00 solid;
+	}
+	ul.menu a.active, ul.menu ul.menu li a.active, ul.menu a.active:hover, ul.menu ul.menu li a.active:hover {
+	    text-decoration: underline;
+	    background: #D5EF86;
+	}
+	div.panel {
+	    border: 1px #000 solid;
+	    padding: 5px;
+	    margin-top: 1px;
+	}
+	
+	ul.menu div.panel a, ul.menu div.panel li a:hover  {
+	    display :inline;
+	    color: #666;
+	    background: none;
+	    margin: 0;
+	    padding: 0;
+	    border: none;
+	    font-weight: bold;
+	}
+	ul.menu div.panel a:hover {
+	    color: #000;
+	    text-decoration: underline;
+	}
+
+}

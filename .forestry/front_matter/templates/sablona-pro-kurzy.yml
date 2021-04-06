@@ -1,16 +1,16 @@
 ---
-label: Šablona pro kurzy
+label: Šablona pro kempy
 hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Nadpis
 - type: text
   name: linktitle
-  label: linktitle
+  label: Alias
 - type: number
   name: weight
-  label: weight
+  label: Pořadí
 - type: datetime
   name: publishDate
   label: publishDate
@@ -19,4 +19,4 @@ fields:
   label: lastmod
 - type: file
   name: obrazek
-  label: obrazek
+  label: Obrázek

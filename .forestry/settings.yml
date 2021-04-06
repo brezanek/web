@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/kempy
+  label: Kempíčky
+  create: documents
+  match: "**/*"
+- type: directory
   path: content//kempy
   label: Kempy
   create: all

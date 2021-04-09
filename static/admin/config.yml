@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+  # These lines should *not* be indented
+media_folder: "static/assets/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/assets/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "novinky" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Novinky" # Used in the UI, ie.: "New Post"
+    create: true
+    folder: "content/novinky"
+    fields:
+      - {label: "Nadpis", name: "title", widget: "string"}
+      - {label: "Alias", name: "linktitle", widget: "string"}
+      - {label: "Koncept", name: "draft", widget: "boolean", default: true}
+      - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
+      - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
+      - {label: "Text", name: "body", widget: "markdown"}
+  - name: "kempy" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Kempy" # Used in the UI, ie.: "New Post"
+    folder: "content/kempy"
+    fields:
+      - {label: "Nadpis", name: "title", widget: "string"}
+      - {label: "Alias", name: "linktitle", widget: "string"}
+      - {label: "Koncept", name: "draft", widget: "boolean", default: true}
+      - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
+      - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
+      - {label: "Text", name: "body", widget: "markdown"}

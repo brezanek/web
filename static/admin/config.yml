@@ -25,6 +25,8 @@ collections:
   - name: "kempy" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Kempy" # Used in the UI, ie.: "New Post"
     folder: "content/kempy"
+    media_folder: /static/2-obrazky
+    public_folder: /2-obrazky
     sortable_fields: ['weight', 'title']
     view_groups:
       - {label: Koncepty, field: draft}

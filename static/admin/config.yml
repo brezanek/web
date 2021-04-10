@@ -17,6 +17,9 @@ collections:
     label: "Novinky" # Used in the UI, ie.: "New Post"
     create: true
     folder: "content/novinky"
+    sortable_fields: ['weight', 'title']
+    view_groups:
+      - {label: Koncepty, field: draft}
     fields:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Alias", name: "linktitle", widget: "string"}
@@ -41,8 +44,13 @@ collections:
   - name: "ostatni" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Ostatní" # Used in the UI, ie.: "New Post"
     folder: "content/ostatni"
+    sortable_fields: ['weight', 'title']
+    view_groups:
+      - {label: Koncepty, field: draft}
     fields:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Alias", name: "linktitle", widget: "string"}
+      - {label: "Koncept", name: "draft", widget: "boolean", default: true}
       - {label: "Obrázek", name: "obrazek", widget: "image", required: false}
+      - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}

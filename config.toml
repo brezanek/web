@@ -10,6 +10,9 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
 EnableGitInfo = true
 
+[frontmatter]
+lastmod = ["lastmod", ":git"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]

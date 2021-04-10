@@ -8,18 +8,19 @@ lastmod = "2021-01-15"
 obrazek = ""
 +++
 
-**![](assets/2-obrazky/brezanek/IMG_8431.jpg)**
+![](assets/media-o-nas/IMG_8431.jpg)
 
 **Adresa provozovny:**   
 Centrum Břežánek z.ú. , Na Panský 11, 252 41 Dolní Břežany  
-**Fakturační adresa ( sídlo):**   
+**Fakturační adresa (sídlo):**   
 Centrum Břežánek, z.ú., ul. 5.května 78, 252 41 Dolní Břežany  
 IČO:22732322  
 **Bankovní spojení:** Raiffeisen bank, a.s.- číslo účtu: 2088014309/5500  
 
 Kde nás najdete: [otevřít mapu](https://mapy.cz/s/cofacasabe)   
 
-**Kontakty****Recepce** (aktuální provozní informace)  
+#### Kontakty
+**Recepce** (aktuální provozní informace)  
 tel.: 773 619 138 ( pouze v době otevření recepce)  
 e-mail: brezanek@brezanek.cz  
 **Miniškolka** (omluvy z Miniškolky pouze přes online system)  
@@ -29,9 +30,10 @@ miniskolka@brezanek.cz
 Martina Vilhumová tel.: 773 619 100   
 e-mail: brezanek@brezanek.cz
 
-**Kancelář Centra Břežánek** 5.května 17, Dolní Břežany  
+**Kancelář Centra Břežánek**  
+5.května 17, Dolní Břežany  
 
-**Náš tým**  
+#### Náš tým  
 **Monika Žáková,** výkonná ředitelka  
 tel.: 773 619 139 (po-pá 8:30 - 18:00)  
 e-mail: brezanek@brezanek.cz  
@@ -45,4 +47,4 @@ e-mail:miniskolka@brezanek.cz
 **Personální obsazení recepce:**   
 Martina Vilhumová, Monika Žáková, Renata Hanzlová, Zuzana Rosecká, Radka Micková
 
-**![](assets/2-obrazky/ilustrace/CB_VIG_otevírací%20doba.jpg)**
+**![](assets/media-o-nas/CB_VIG_otevírací%20doba.jpg)**

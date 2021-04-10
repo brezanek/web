@@ -25,6 +25,9 @@ collections:
   - name: "kempy" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Kempy" # Used in the UI, ie.: "New Post"
     folder: "content/kempy"
+    sortable_fields: ['weight', 'title']
+    view_groups:
+      - {label: Koncepty, field: draft}
     fields:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Alias", name: "linktitle", widget: "string"}

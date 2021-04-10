@@ -19,11 +19,12 @@ collections:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Alias", name: "linktitle", widget: "string"}
       - {label: "Koncept", name: "draft", widget: "boolean", default: true}
-      - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
+      - {label: "Obrázek", name: "obrazek", widget: "image", required: false}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}
   - name: "kempy" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Kempy" # Used in the UI, ie.: "New Post"
+    create: true
     folder: "content/kempy"
     media_folder: /static/2-obrazky
     public_folder: /2-obrazky
@@ -34,6 +35,7 @@ collections:
       - {label: "Nadpis", name: "title", widget: "string"}
       - {label: "Alias", name: "linktitle", widget: "string"}
       - {label: "Koncept", name: "draft", widget: "boolean", default: true}
-      - {label: "Obrázek", name: "thumbnail", widget: "image", required: false}
+      - {label: "Publikovat dne", name: "publishDate", widget: "datetime", format: "YYYY-MM-DD", timeFormat: false}
+      - {label: "Obrázek", name: "obrazek", widget: "image", required: false}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}

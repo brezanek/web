@@ -1,13 +1,12 @@
-+++
-title = "Informace o zpracování a zabezpečení osobních údajů"
-linktitle = "zasady-zpracovani"
-draft = false
-weight = 1004000
-publishDate = "2018-05-18"
-lastmod = "2018-05-24"
-obrazek = ""
-+++
-
+---
+title: Informace o zpracování a zabezpečení osobních údajů
+linktitle: zasady-zpracovani
+draft: false
+weight: 1004000
+publishDate: 2018-05-18
+lastmod: 2018-05-24
+obrazek: ""
+---
 Naše společnost, Centrum Břežánek, z.ú., přistupuje k ochraně osobních údajů, která nám předáváte, zodpovědně. Je důležité, abyste věděli, že osobní údaje, které nám poskytujete, zpracováváme korektně, transparentně a v souladu s platnými právními předpisy. V případě jakýchkoliv dotazů, týkajících se zpracování Vašich osobních údajů, se na nás můžete obrátit, a to písemně na adresu sídla společnosti nebo elektronicky na adresu {{< email >}}.
 
 Dbáme na to, aby osobní údaje, které od Vás získáme, byly v bezpečí. Přijali jsme proto vhodná technicko-organizační opatření, abychom Vaše data dostatečně chránili s ohledem na závažnost jejich zpracování. K Vašim osobním údajům mají přístup pouze oprávněné osoby a k dalšímu zpracování je bez Vašeho souhlasu nikam dál nepředáváme, pokud to nevyžaduje zákon nebo ochrana našich právních zájmů či plnění právních povinností. Jsme také oprávněni zpracovávat osobní údaje prostřednictvím určených zpracovatelů. Tito zpracovatelé musí splňovat stejně přísné standardy pro zpracování jako naše společnost. Žádný z těchto zpracovatelů není oprávněn využívat poskytnuté osobní údaje pro své vlastní, marketingové či jiné účely.
@@ -34,7 +33,7 @@ Pokud zpracováváme Vaše osobní údaje, které jste nám poskytli na základ�
 
 #### Webové stránky
 
-Naše webové stránky respektují soukromí návštěvníků a uživatelů, takže je můžete procházet anonymně bez nutnosti registrace či přihlášení. Při návštěvě stránek jste informováni o tom, že používáme technologii k shromažďování a ukládání informací (nikoliv však Vašich osobních údajů) do Vašeho počítače prostřednictvím souborů cookies, bez kterých nejsme schopni zajistit plnohodnotnou funkčnost těchto stránek. Podrobnější informace o námi používaných souborech cookies můžete najít [zde](/cookies/).
+Naše webové stránky respektují soukromí návštěvníků a uživatelů, takže je můžete procházet anonymně bez nutnosti registrace či přihlášení. Neukládáme žádné informace ani do souborů cookies. Podrobnější informace o souborech cookies můžete najít [zde](/cookies/).
 
 Z našich akcí někdy pořizujeme fotografie nebo videa, jež používáme pro propagaci Centra Břežánek, výroční zprávy, webovou fotogalerii nebo kroniku. Jedná o ilustrační skupinové fotografie bez přímého vztahu k osobním údajům jednotlivce. Pokud si ovšem ani tak nepřejete, abychom pro tyto účely použili fotografie Vás nebo Vašich dětí, oznamte nám to prosím na adresu {{< email >}}.
 
@@ -45,4 +44,3 @@ Vaše kontaktní údaje (email, telefon) mohou být využity za účelem šíře
 Máte právo kdykoliv odmítnout zasílání obchodních sdělení zasláním svého požadavku písemně či emailem na adresu {{< email >}}.
 
 Rádi bychom Vás ještě upozornili, že ne každá zpráva od nás je obchodní sdělení. V rámci poskytování dané služby můžete od nás obdržet například organizační informace týkající se Vašeho kurzu či akce.
-

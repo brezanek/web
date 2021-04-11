@@ -1,7 +1,9 @@
 {{ define "main" }}
 	<article class="bgwhite">
 		<header><h3>{{ .Title }}</h3></header>
-		<img class="float_left" src="{{ .Params.obrazek }}" alt="" />
+		{{ if .Params.obrazek }}
+			<img class="float_left" src="{{ .Params.obrazek }}" alt="" />
+		{{ end }}
 		{{ .Content }}
 		<div class="lastmod"><small><i>(Aktualizace: {{ .Lastmod.Format "2.1.2006" }})</i></small></div>
 	</article>

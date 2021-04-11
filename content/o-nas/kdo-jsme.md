@@ -8,7 +8,7 @@ obrazek = "assets/media-o-nas/foto_prostory_new_small.jpg"
 +++
 
 Jsme volnočasové centrum pro děti v Dolních Břežanech. U nás si užije celá rodina. Chcete trávit příjemný čas se svými dětmi, dopřát svým dětem zajímavý kurz nebo si společně užít nějakou společnou akci?   
-Spolupracujeme s organizacemi [INLINETALENT](http://www.inlinetalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/)**.** Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/)a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.   
+Spolupracujeme s organizacemi [INLINETALENT](http://www.inlinetalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.   
 O bezproblémový chod Centra Břežánek se stará stabilní tým, naší snahou je nabízet kvalitní služby a přinášet inovativní nápady.  
 Centrum Břežánek je vždy plné dětí, rodičů, nových nápadů a smíchu :)  
 Přijďte se k nám podívat.  

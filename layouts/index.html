@@ -2,11 +2,16 @@
   <div>
     {{ range .Site.RegularPages }}
         {{ if eq .Section "novinky"}}
-            <div class="text-block text">
-                <h2>{{ .Title }}</h2>
+            <article class="bgwhite short-article">
+                <header><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3></header>
+                {{ if .Params.obrazek }}
+                    <img class="float_left" width="100" src="{{ .Params.obrazek }}" alt="" />
+                {{ end }}
+                <p></p>
                 {{ .Content }}
-                <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
-            </div>
+                <p>&nbsp; </p>
+                <div class="lastmod"><small><i>(Aktualizace: {{ .Lastmod.Format "2.1.2006" }})</i></small></div>
+            </article>
         {{ end }}
     {{ end }}
 </div>

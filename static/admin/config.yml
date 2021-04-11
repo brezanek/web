@@ -64,7 +64,7 @@ collections:
     folder: "content/o-nas"
     media_folder: "/static/assets/media-o-nas"
     public_folder: "/assets/media-o-nas"
-    sortable_fields: ['weight', 'title']
+    sortable_fields: ['title']
     view_groups:
       - {label: Koncepty, field: draft}
     fields:
@@ -74,4 +74,5 @@ collections:
       - {label: "Obrázek", name: "obrazek", widget: "image", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
       - {label: "Soubory", name: "soubory", widget: "file", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
+      - {label: "Aktualizováno", name: "lastmod", widget: "datetime", date_format: "D.M.YYYY"}
       - {label: "Text", name: "body", widget: "markdown"}

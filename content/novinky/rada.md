@@ -4,7 +4,7 @@ linktitle = "rada"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2018-09-10"
-obrazek = "2-obrazky/ilustrace/SILUETY web.jpg"
+obrazek = "/assets/media/SILUETY web.jpg"
 +++
 
 Nevíte, jaký kurz vybrat pro Vaše dítě v Centru Břežánek? Neorientujete se v nabídce kurzů pro starší děti a dospělé naší partnerské organizace [VIGVAM](http://vigvam-db.cz/)?  

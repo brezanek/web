@@ -4,7 +4,7 @@ linktitle = "konzultace"
 draft = false
 publishDate = "2021-01-15"
 lastmod = "2021-02-09"
-obrazek = "2-obrazky/ilustrace/2021_CB_VIG_Dušková_konzultace.jpg"
+obrazek = "/assets/media/2021_CB_VIG_Dušková_konzultace.jpg"
 +++
 
 [VIGVAM](https://www.vigvam-db.cz/)nabízí novinku a pro klienty Centra Břežánek se slevou 10%.  

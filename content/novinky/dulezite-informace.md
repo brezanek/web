@@ -4,7 +4,7 @@ linktitle = "dulezite-informace"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2020-09-06"
-obrazek = "2-obrazky/brezanek/brezanek_bezpozadi - kopie.png"
+obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 
 **Milí klienti Centra Břežánek a VIGVAMu,**   

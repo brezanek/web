@@ -32,7 +32,7 @@ Pokud o knížku budete mít zájem, rádi vám ušetříme poštovné a vy si j
 Pak už vás bude Nulipínek vyhlížet v Centru Břežánek.  
 Ať se vám i dětem knížka líbí.
 
-![](assets/2-obrazky/ilustrace/knizka(2).jpg)
+![](/assets/media/knizka(2).jpg)
 
 <br />
 

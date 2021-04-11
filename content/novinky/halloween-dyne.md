@@ -4,7 +4,7 @@ linktitle = "halloween-dyne"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2016-10-31"
-obrazek = "2-obrazky/ilustrace/soutez dyne.jpg"
+obrazek = "/assets/media/soutez dyne.jpg"
 +++
 
 Zdarma lampión štěstí!  

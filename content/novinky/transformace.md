@@ -4,7 +4,7 @@ linktitle = "transformace"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2017-07-26"
-obrazek = "2-obrazky/brezanek/brezanek_bezpozadi - kopie.png"
+obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 
 V závěru roku 2015 jsme řešili v naší neziskové organizaci zásadní proměnu -  

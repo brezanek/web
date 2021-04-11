@@ -4,7 +4,7 @@ linktitle = "mikulas"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2014-12-03"
-obrazek = "2-obrazky/ilustrace/miki_předloha.jpg"
+obrazek = "/assets/media/miki_předloha.jpg"
 +++
 
 Mikulášská nadílka v Břežánku 5.12.2014 od 15h, 16.30h a 18h.

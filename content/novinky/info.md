@@ -4,7 +4,7 @@ linktitle = "info"
 draft = false
 publishDate = "2018-05-31"
 lastmod = "2021-02-04"
-obrazek = "2-obrazky/brezanek/brezanek_bezpozadi - kopie.png"
+obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 
 Veškeré informace ke kurzům jako je **místo konání, začátek kurzu, zrušení lekce** nebo obecné podmínky pro kurzy naleznete v našem rezervačním systému. V případě, že Vámi vybraný kurz je již obsazen, zapište se v našem rezervačním systému jako náhradník.  

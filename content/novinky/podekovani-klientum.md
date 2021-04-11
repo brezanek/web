@@ -4,7 +4,7 @@ linktitle = "podekovani-klientum"
 draft = false
 publishDate = "2020-08-17"
 lastmod = "2020-08-17"
-obrazek = "2-obrazky/brezanek/brezanek_bezpozadi - kopie.png"
+obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 
 Centrum Břežánek děkuje všem našim milým klientům, kteří nám věnovali kurzovné z krizového období koronavirové epidemie. Díky darům se nám podařilo velmi náročné období zvládnout. Již se moc těšíme na začátek školního roku, kdy se s Vámi- našimi klienty- opět potkáme.  

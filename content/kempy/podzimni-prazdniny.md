@@ -5,7 +5,7 @@ draft = true
 weight = 1001000
 publishDate = "1970-01-01"
 lastmod = "2020-10-11"
-obrazek = "2-obrazky/loga/TOMTALENT_logo.jpg"
+obrazek = "/assets/media/TOMTALENT_logo.jpg"
 +++
 
 SPORTOVNÍ TÁBOR se SPACE TOMem si můžete rezervovat [ZDE](https://tomtalent.webooker.eu/Courses?semesterID=21678).  

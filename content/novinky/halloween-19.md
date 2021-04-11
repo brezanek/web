@@ -7,4 +7,4 @@ lastmod = "2019-11-04"
 obrazek = ""
 +++
 
-![](assets/2-obrazky/ilustrace/2019-10-31_Halloween.jpg)
+![](/assets/media/2019-10-31_Halloween.jpg)

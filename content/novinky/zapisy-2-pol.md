@@ -4,7 +4,7 @@ linktitle = "zapisy-2-pol"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2020-03-05"
-obrazek = "2-obrazky/ilustrace/SILUETY web.jpg"
+obrazek = "/assets/media/SILUETY web.jpg"
 +++
 
 **Informace pro stávající klienty:** Do kurzu, který navštěvuje Vaše dítě v 1.pololetí, budete automaticky zapsáni i pro 2. pololetí. Pokud v kurzu nechcete pokračovat, je nutné nás do 31.12.2019 mailem informovat na brezanek@brezanek.cz.  

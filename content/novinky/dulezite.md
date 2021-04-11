@@ -4,7 +4,7 @@ linktitle = "dulezite"
 draft = false
 publishDate = "2020-09-10"
 lastmod = "2021-02-09"
-obrazek = "2-obrazky/brezanek/brezanek_bezpozadi - kopie.png"
+obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 
 Milí klienti Centra Břežánek,  

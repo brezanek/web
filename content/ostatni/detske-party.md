@@ -5,7 +5,7 @@ draft = true
 weight = 1002000
 publishDate = "1970-01-01"
 lastmod = "2019-08-27"
-obrazek = "2-obrazky/ilustrace/dort.jpg"
+obrazek = "/assets/media/dort.jpg"
 +++
 
 **Uspořádejte dětskou párty v Centru Břežánek!**

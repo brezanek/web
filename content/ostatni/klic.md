@@ -5,7 +5,7 @@ draft = false
 weight = 1007000
 publishDate = "2020-12-16"
 lastmod = "2020-12-16"
-obrazek = "2-obrazky/ilustrace/babyklub web.jpg"
+obrazek = "/assets/media/babyklub web.jpg"
 +++
 
 Cestujete s dětmi do 3 let? V Centru Břežánek si můžete proti vratné záloze 300,- Kč vypůjčit EUROKLÍČ.  

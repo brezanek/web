@@ -4,7 +4,7 @@ linktitle = "vigvam"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2018-08-22"
-obrazek = "2-obrazky/brezanek/vigvam_bezpozadi - kopie.png"
+obrazek = "/assets/media/vigvam_bezpozadi - kopie.png"
 +++
 
 V návaznosti na transformaci neziskové volnočasové organizace Centrum Břežánek, zapsaný ústav, zaměřené převážně na děti předškolního a mladšího školního věku byla v Dolních Břežanech založena sesterská nezisková organizace VIGVAM z.ú.

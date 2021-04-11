@@ -1,24 +1,10 @@
 {{ define "main" }}
-  <div class="text-block text">
-      <h1>Testovací stránka</h1>
-  </div>
-  <div>
-    {{ range .Pages }}
-            <!-- <div class="text-block text">
-                <h2>{{ .Title }}</h2>
-                {{ .Content }}
-                <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
-            </div> -->
-            <div class="image-text-block">
-                <div class="img">
-                    <img src='{{ .Param "thumbnail" }}'>   
-                </div>
-                <div class="text">
-                    <h2>{{ .Title }}</h2>
-                    {{ .Content }}    
-                    <div class="lastmod">(Poslední aktualizace: {{ .Lastmod.Format "2.1.2006" }})</div>
-                </div>
-            </div>
+    {{ range .Pages.ByWeight }}
+        <article class="bgwhite short-article">
+            <header><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3></header>
+            <img class="float_left" src="{{ .Params.obrazek }}" alt="" />
+            {{ .Content }}
+            <div class="lastmod"><small><i>(Aktualizace: {{ .Lastmod.Format "2.1.2006" }})</i></small></div>
+        </article>
     {{ end }}
-</div>
 {{end}}

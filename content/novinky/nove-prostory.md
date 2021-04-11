@@ -4,7 +4,7 @@ linktitle = "nove-prostory"
 draft = true
 publishDate = "1970-01-01"
 lastmod = "2020-06-02"
-obrazek = "2-obrazky/brezanek/brezanek_bezpozadi - kopie.png"
+obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 
 Milí rodiče, děti, naši příznivci,  

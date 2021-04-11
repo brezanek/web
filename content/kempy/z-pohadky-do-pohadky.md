@@ -22,5 +22,5 @@ Lektorka: [Katka Váchalová](https://brezanek.webooker.eu/Courses/Register/1242
 
 [Registrace](https://brezanek.webooker.eu/Actions/Register/124677?returnUrl=Actions&tabName=detail)
 
-![](2-obrazky/ilustrace/leto_kemp.jpg)
+![](/assets/media/leto_kemp.jpg)
 

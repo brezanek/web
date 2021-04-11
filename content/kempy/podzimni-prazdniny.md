@@ -56,5 +56,5 @@ Ceník půjčovného:
 
 V případě jakýchkoliv dotazů nebo žádostí nás neváhejte kontaktovat na telefonu +420 737 461 312 nebo emailu info@tomtalent.cz
 
-![](2-obrazky/ilustrace/2020-10-29_SPACE_TOM_podzimky.jpg)
+![](/assets/media/2020-10-29_SPACE_TOM_podzimky.jpg)
 

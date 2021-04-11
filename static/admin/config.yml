@@ -25,6 +25,7 @@ collections:
       - {label: "Alias", name: "linktitle", widget: "string"}
       - {label: "Koncept", name: "draft", widget: "boolean", default: true}
       - {label: "Obrázek", name: "obrazek", widget: "image", required: false}
+      - {label: "Soubory", name: "soubory", widget: "file", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}
   - name: "kempy" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -39,6 +40,7 @@ collections:
       - {label: "Alias", name: "linktitle", widget: "string"}
       - {label: "Koncept", name: "draft", widget: "boolean", default: true}
       - {label: "Obrázek", name: "obrazek", widget: "image", required: false}
+      - {label: "Soubory", name: "soubory", widget: "file", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}
   - name: "ostatni" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -53,6 +55,7 @@ collections:
       - {label: "Alias", name: "linktitle", widget: "string"}
       - {label: "Koncept", name: "draft", widget: "boolean", default: true}
       - {label: "Obrázek", name: "obrazek", widget: "image", required: false}
+      - {label: "Soubory", name: "soubory", widget: "file", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}
   - name: "o-nas" # Used in routes, ie.: /admin/collections/:slug/edit
@@ -69,6 +72,6 @@ collections:
       - {label: "Alias", name: "linktitle", widget: "string"}
       - {label: "Koncept", name: "draft", widget: "boolean", default: true}
       - {label: "Obrázek", name: "obrazek", widget: "image", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
-      - {label: "Soubory", name: "soubory", widget: "file", required: false, allow_multiple: true, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
+      - {label: "Soubory", name: "soubory", widget: "file", required: false, media_folder: "/static/assets/media-o-nas", public_folder: "/assets/media-o-nas"}
       - {label: "Pořadí", name: "weight", widget: "number", default: 10000, valueType: int, min: 1, max: 2000000000}
       - {label: "Text", name: "body", widget: "markdown"}

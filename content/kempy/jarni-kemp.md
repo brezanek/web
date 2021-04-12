@@ -3,8 +3,6 @@ title = "Jarní Break dance a Parkour kemp"
 linktitle = "jarni-kemp"
 draft = false
 weight = 1001000
-publishDate = "2021-01-12"
-lastmod = "2021-02-08"
 obrazek = "/assets/media/breakdance průhld..png"
 +++
 

@@ -2,8 +2,6 @@
 title = "Hledáme lektory"
 linktitle = "hledame-lektory"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-10-02"
 obrazek = ""
 +++
 

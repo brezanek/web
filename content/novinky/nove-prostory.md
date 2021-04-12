@@ -2,8 +2,6 @@
 title = "Nové prostory"
 linktitle = "nove-prostory"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-06-02"
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

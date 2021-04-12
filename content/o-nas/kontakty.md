@@ -3,8 +3,6 @@ title = "Kontakty"
 linktitle = "kontakty"
 draft = false
 weight = 1003000
-publishDate = "2011-06-05"
-lastmod = "2021-01-15"
 obrazek = ""
 +++
 

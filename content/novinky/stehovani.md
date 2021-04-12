@@ -2,8 +2,6 @@
 title = "Stěhování Centra Břežánek"
 linktitle = "stehovani"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2019-11-05"
 obrazek = ""
 +++
 

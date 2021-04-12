@@ -3,8 +3,6 @@ title = "Příměstský kemp Parkour"
 linktitle = "parkour"
 draft = false
 weight = 1004000
-publishDate = "2020-12-29"
-lastmod = "2021-01-14"
 obrazek = "/assets/media/breakdance průhld..png"
 +++
 

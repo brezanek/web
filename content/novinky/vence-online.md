@@ -2,8 +2,6 @@
 title = "Prodej vánočních věnců "
 linktitle = "vence-online"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-12-03"
 obrazek = "/assets/media/20201105_145020.jpg"
 +++
 

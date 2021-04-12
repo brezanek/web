@@ -2,8 +2,6 @@
 title = "Burza jinak :-)"
 linktitle = "burza"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-03-19"
 obrazek = "/assets/media/burza.jpg"
 +++
 

@@ -2,8 +2,6 @@
 title = "Knížka pohádek"
 linktitle = "nulipinek"
 draft = false
-publishDate = "2021-02-12"
-lastmod = "2021-02-12"
 obrazek = "/assets/media/Nulipínek_IG_3.jpg"
 +++
 

@@ -3,7 +3,6 @@ title = "Centrum Břežánek"
 linktitle = "kdo-jsme"
 draft = false
 weight = 1002000
-publishDate = "2011-04-13"
 obrazek = "assets/media-o-nas/foto_prostory_new_small.jpg"
 +++
 

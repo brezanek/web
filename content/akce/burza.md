@@ -3,8 +3,6 @@ title = "BURZA - jaro/léto"
 linktitle = "burza"
 draft = true
 weight = 1011000
-publishDate = "1970-01-01"
-lastmod = "2020-05-14"
 obrazek = "/assets/media/Připravujeme_pro_vás_JARNÍ_BURZU.jpg"
 +++
 

@@ -2,8 +2,6 @@
 title = "Kroužek Břežánku Ptáčata v televizi"
 linktitle = "ptacata"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2014-03-26"
 obrazek = ""
 +++
 

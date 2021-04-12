@@ -3,8 +3,6 @@ title = "Velikonoční dílny"
 linktitle = "velikonoce"
 draft = true
 weight = 1003000
-publishDate = "1970-01-01"
-lastmod = "2021-03-28"
 obrazek = ""
 +++
 

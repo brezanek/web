@@ -3,8 +3,6 @@ title = "Dětské párty"
 linktitle = "detske-party"
 draft = true
 weight = 1002000
-publishDate = "1970-01-01"
-lastmod = "2019-08-27"
 obrazek = "/assets/media/dort.jpg"
 +++
 

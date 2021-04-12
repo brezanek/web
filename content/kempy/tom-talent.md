@@ -3,8 +3,6 @@ title = "Příměstské kempy TOM TALENT"
 linktitle = "tom-talent"
 draft = false
 weight = 1002000
-publishDate = "2020-12-29"
-lastmod = "2021-01-14"
 obrazek = ""
 +++
 

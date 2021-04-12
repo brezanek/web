@@ -2,8 +2,6 @@
 title = "Dárkový poukaz"
 linktitle = "poukaz"
 draft = false
-publishDate = "2020-12-03"
-lastmod = "2021-02-04"
 obrazek = "/assets/media/CB_dárkový poukaz_500_rám.jpg"
 +++
 

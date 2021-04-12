@@ -2,8 +2,6 @@
 title = "Založení  organizace VIGVAM, z.ú."
 linktitle = "vigvam"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2018-08-22"
 obrazek = "/assets/media/vigvam_bezpozadi - kopie.png"
 +++
 

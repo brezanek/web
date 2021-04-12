@@ -3,8 +3,6 @@ title = "Nastřelování náušnic"
 linktitle = "nastrelovani-nausnic"
 draft = false
 weight = 1010000
-publishDate = "2017-11-29"
-lastmod = "2021-01-06"
 obrazek = "/assets/media/logo-nastřelování_web.png"
 +++
 

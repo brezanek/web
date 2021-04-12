@@ -3,8 +3,6 @@ title = "Podpořte nás"
 linktitle = "info-pro-sponzory"
 draft = false
 weight = 1008000
-publishDate = "2011-04-27"
-lastmod = "2021-03-14"
 obrazek = ""
 +++
 

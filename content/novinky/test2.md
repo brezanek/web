@@ -2,8 +2,6 @@
 title = "Euroklíč k zapůjčení "
 linktitle = "test2"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2015-05-25"
 obrazek = ""
 +++
 

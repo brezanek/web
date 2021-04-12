@@ -3,8 +3,6 @@ title = "Euroklíč"
 linktitle = "klic"
 draft = false
 weight = 1007000
-publishDate = "2020-12-16"
-lastmod = "2020-12-16"
 obrazek = "/assets/media/babyklub web.jpg"
 +++
 

@@ -2,8 +2,6 @@
 title = "Den otevřených dveří"
 linktitle = "den-otevrenych-dveri"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-09-06"
 obrazek = ""
 +++
 

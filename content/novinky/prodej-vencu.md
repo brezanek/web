@@ -2,8 +2,6 @@
 title = "Prodej adventrních věnců"
 linktitle = "prodej-vencu"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2019-12-02"
 obrazek = ""
 +++
 

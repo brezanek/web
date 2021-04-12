@@ -3,8 +3,6 @@ title = "Distribuční místo"
 linktitle = "distribucni-misto"
 draft = false
 weight = 1004000
-publishDate = "2021-02-01"
-lastmod = "2021-02-12"
 obrazek = ""
 +++
 

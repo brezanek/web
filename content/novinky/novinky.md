@@ -2,8 +2,6 @@
 title = "Novinky od září 2020"
 linktitle = "novinky"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-10-10"
 obrazek = ""
 +++
 

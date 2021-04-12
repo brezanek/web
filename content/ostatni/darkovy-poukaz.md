@@ -3,8 +3,6 @@ title = "Dárkový poukaz"
 linktitle = "ostatni"
 draft = false
 weight = 1005000
-publishDate = "2020-12-16"
-lastmod = "2020-12-16"
 obrazek = "/assets/media/CB_dárkový poukaz_500_rám.jpg"
 +++
 

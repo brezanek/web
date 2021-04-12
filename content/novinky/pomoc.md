@@ -2,8 +2,6 @@
 title = "Chcete nás podpořit?"
 linktitle = "pomoc"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2019-05-31"
 obrazek = "/assets/media/pastelky.jpg"
 +++
 

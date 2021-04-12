@@ -3,8 +3,6 @@ title = "Podzimní prázdniny se SPACE TOMem"
 linktitle = "podzimni-prazdniny"
 draft = true
 weight = 1001000
-publishDate = "1970-01-01"
-lastmod = "2020-10-11"
 obrazek = "/assets/media/TOMTALENT_logo.jpg"
 +++
 

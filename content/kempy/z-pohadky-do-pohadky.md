@@ -3,8 +3,6 @@ title = "Z pohádky do pohádky"
 linktitle = "z-pohadky-do-pohadky"
 draft = false
 weight = 1001500
-publishDate = "2021-02-08"
-lastmod = "2021-02-08"
 obrazek = ""
 +++
 

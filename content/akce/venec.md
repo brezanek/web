@@ -3,8 +3,6 @@ title = "Adventní věnec na míru"
 linktitle = "venec"
 draft = true
 weight = 1016000
-publishDate = "1970-01-01"
-lastmod = "2019-11-26"
 obrazek = ""
 +++
 

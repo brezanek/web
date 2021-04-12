@@ -2,8 +2,6 @@
 title = "Sportovní výzva"
 linktitle = "vyzva"
 draft = false
-publishDate = "2021-03-08"
-lastmod = "2021-03-16"
 obrazek = "/assets/media/sport_insta.jpg"
 +++
 

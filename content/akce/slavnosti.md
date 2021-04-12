@@ -3,8 +3,6 @@ title = "Svatováclavské slavnosti"
 linktitle = "slavnosti"
 draft = true
 weight = 1006000
-publishDate = "1970-01-01"
-lastmod = "2020-10-10"
 obrazek = ""
 +++
 

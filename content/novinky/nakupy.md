@@ -2,8 +2,6 @@
 title = "Služby pro seniory"
 linktitle = "nakupy"
 draft = false
-publishDate = "2020-02-05"
-lastmod = "2021-02-04"
 obrazek = ""
 +++
 

@@ -3,8 +3,6 @@ title = "Centrum Břežánek doporučuje"
 linktitle = "doporucujeme"
 draft = true
 weight = 1004000
-publishDate = "1970-01-01"
-lastmod = "2020-12-10"
 obrazek = ""
 +++
 

@@ -2,8 +2,6 @@
 title = "Covid Portál"
 linktitle = "covidportal"
 draft = false
-publishDate = "2020-11-11"
-lastmod = "2020-11-12"
 obrazek = "/assets/media/60968793_s.jpg"
 +++
 

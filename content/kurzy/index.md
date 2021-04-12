@@ -3,8 +3,6 @@ title = "Kurzy"
 linktitle = "kurzy"
 draft = false
 weight = 1002000
-publishDate = "2015-12-27"
-lastmod = "2021-02-04"
 obrazek = ""
 +++
 

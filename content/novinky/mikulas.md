@@ -2,8 +2,6 @@
 title = "Mikulášská nadílka"
 linktitle = "mikulas"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2014-12-03"
 obrazek = "/assets/media/miki_předloha.jpg"
 +++
 

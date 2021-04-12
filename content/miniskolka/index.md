@@ -3,8 +3,6 @@ title = "Dětská skupina"
 linktitle = "miniskolka"
 draft = false
 weight = 1005000
-publishDate = "2016-07-06"
-lastmod = "2021-02-04"
 obrazek = "/assets/media/maskot_supersmall.jpg"
 +++
 

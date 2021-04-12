@@ -1,8 +1,6 @@
 +++
 title = "Poučení uživatelů o využívání souborů cookie"
 draft = false
-publishDate = "2014-11-25"
-lastmod = "2018-05-20"
 obrazek = ""
 +++
 

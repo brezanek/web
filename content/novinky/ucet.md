@@ -2,8 +2,6 @@
 title = "ČÍSLA ÚČTŮ PRO PLATBY PŘEVODEM"
 linktitle = "ucet"
 draft = false
-publishDate = "2016-01-23"
-lastmod = "2017-10-23"
 obrazek = ""
 +++
 

@@ -2,8 +2,6 @@
 title = "Informace o kurzech"
 linktitle = "info"
 draft = false
-publishDate = "2018-05-31"
-lastmod = "2021-02-04"
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

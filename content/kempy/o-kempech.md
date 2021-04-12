@@ -3,8 +3,6 @@ title = "O kempech"
 linktitle = "o-kempech"
 draft = false
 weight = 10
-publishDate = "2020-03-18"
-lastmod = "2021-02-27"
 obrazek = "/assets/media/SILUETY web.jpg"
 +++
 

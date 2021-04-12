@@ -2,8 +2,6 @@
 title = "Jarní prázdniny-  Break dance a Parkour kemp"
 linktitle = "doporucujeme"
 draft = false
-publishDate = "2020-11-16"
-lastmod = "2021-02-04"
 obrazek = "/assets/media/breakdance průhld..png"
 +++
 

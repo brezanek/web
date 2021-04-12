@@ -2,8 +2,6 @@
 title = "Anketa spokojenosti"
 linktitle = "anketa"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2015-05-01"
 obrazek = ""
 +++
 

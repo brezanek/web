@@ -2,8 +2,6 @@
 title = "Transformace organizace Centrum Břežánek, z.ú."
 linktitle = "transformace"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2017-07-26"
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

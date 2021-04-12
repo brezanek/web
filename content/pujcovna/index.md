@@ -3,8 +3,6 @@ title = "Půjčovna"
 linktitle = "pujcovna"
 draft = false
 weight = 1006000
-publishDate = "2020-12-16"
-lastmod = "2021-03-28"
 obrazek = ""
 +++
 

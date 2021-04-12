@@ -2,8 +2,6 @@
 title = "Adventní věnce- workshop"
 linktitle = "vence"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2019-11-26"
 obrazek = ""
 +++
 

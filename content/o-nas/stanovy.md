@@ -3,8 +3,6 @@ title = "Stanovy občanského sdružení MC Břežánek"
 linktitle = "stanovy"
 draft = true
 weight = 1005000
-publishDate = "1970-01-01"
-lastmod = "2015-12-30"
 obrazek = ""
 +++
 

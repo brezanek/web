@@ -2,8 +2,6 @@
 title = "Klikni a pomáhej!"
 linktitle = "givt"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2018-09-14"
 obrazek = ""
 +++
 

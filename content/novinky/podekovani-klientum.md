@@ -2,8 +2,6 @@
 title = "Poděkování"
 linktitle = "podekovani-klientum"
 draft = false
-publishDate = "2020-08-17"
-lastmod = "2020-08-17"
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

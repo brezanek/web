@@ -2,8 +2,6 @@
 title = "Prázdniny dětské skupiny"
 linktitle = "prazdniny-detske-skupiny"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-08-18"
 obrazek = ""
 +++
 

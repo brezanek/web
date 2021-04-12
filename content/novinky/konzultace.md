@@ -2,8 +2,6 @@
 title = "Doporučujeme: On-line příprava na pohovor"
 linktitle = "konzultace"
 draft = false
-publishDate = "2021-01-15"
-lastmod = "2021-02-09"
 obrazek = "/assets/media/2021_CB_VIG_Dušková_konzultace.jpg"
 +++
 

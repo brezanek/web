@@ -2,8 +2,6 @@
 title = "Street dance v Centru Břežánek"
 linktitle = "street"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-06-02"
 obrazek = ""
 +++
 

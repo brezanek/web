@@ -2,8 +2,6 @@
 title = "Zápisy na 2. pololetí šk. roku 2019/20"
 linktitle = "zapisy-2-pol"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-03-05"
 obrazek = "/assets/media/SILUETY web.jpg"
 +++
 

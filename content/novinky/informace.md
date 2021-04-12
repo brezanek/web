@@ -2,8 +2,6 @@
 title = "Přehled lekcí do konce II. pololetí"
 linktitle = "informace"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2018-06-28"
 obrazek = ""
 +++
 

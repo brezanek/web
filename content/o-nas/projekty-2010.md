@@ -3,8 +3,6 @@ title = "Projekty 2010"
 linktitle = "2010"
 draft = false
 weight = 1011000
-publishDate = "2011-04-14"
-lastmod = "2011-06-12"
 obrazek = ""
 +++
 

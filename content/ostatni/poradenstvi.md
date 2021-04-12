@@ -3,8 +3,6 @@ title = "Poradenství"
 linktitle = "poradenstvi"
 draft = true
 weight = 1006000
-publishDate = "1970-01-01"
-lastmod = "2021-02-01"
 obrazek = "/assets/media/žena u PC koup.jpg"
 +++
 

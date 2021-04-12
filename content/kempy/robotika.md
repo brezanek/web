@@ -3,8 +3,6 @@ title = "Příměstské kempy ROBOTIKA"
 linktitle = "robotika"
 draft = false
 weight = 1005000
-publishDate = "2020-12-29"
-lastmod = "2021-01-22"
 obrazek = ""
 +++
 

@@ -2,8 +2,6 @@
 title = "Soutěž o nejoriginálnější dýni"
 linktitle = "halloween-dyne"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2016-10-31"
 obrazek = "/assets/media/soutez dyne.jpg"
 +++
 

@@ -2,8 +2,6 @@
 title = "Důležité informace"
 linktitle = "dulezite-informace"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2020-09-06"
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

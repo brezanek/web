@@ -2,8 +2,6 @@
 title = "Provoz kurzů"
 linktitle = "dulezite"
 draft = false
-publishDate = "2020-09-10"
-lastmod = "2021-02-09"
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

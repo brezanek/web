@@ -2,8 +2,6 @@
 title = "Hledáme lektora/lektorku"
 linktitle = "hledame"
 draft = true
-publishDate = "1970-01-01"
-lastmod = "2018-05-30"
 obrazek = "/assets/media/SILUETY web.jpg"
 +++
 

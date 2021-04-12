@@ -3,8 +3,6 @@ title = "AKCE VIGVAM"
 linktitle = "vigvam"
 draft = true
 weight = 1000000
-publishDate = "1970-01-01"
-lastmod = "2020-05-14"
 obrazek = ""
 +++
 

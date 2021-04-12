@@ -3,8 +3,6 @@ title = "Svět dinosaurů"
 linktitle = "robotika-dino"
 draft = true
 weight = 1017000
-publishDate = "1970-01-01"
-lastmod = "2020-05-14"
 obrazek = "/assets/media/logo-kiddum_logo.jpg"
 +++
 

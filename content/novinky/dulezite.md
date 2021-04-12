@@ -2,6 +2,7 @@
 title = "Provoz kurzů"
 linktitle = "dulezite"
 draft = false
+weight = 1001000
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

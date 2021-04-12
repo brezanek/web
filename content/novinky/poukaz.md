@@ -2,6 +2,7 @@
 title = "Dárkový poukaz"
 linktitle = "poukaz"
 draft = false
+weight = 1009000
 obrazek = "/assets/media/CB_dárkový poukaz_500_rám.jpg"
 +++
 

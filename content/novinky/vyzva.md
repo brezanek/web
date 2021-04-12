@@ -1,7 +1,7 @@
 +++
 title = "Sportovní výzva"
 linktitle = "vyzva"
-draft = false
+draft = true
 obrazek = "/assets/media/sport_insta.jpg"
 +++
 

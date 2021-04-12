@@ -3,8 +3,6 @@ title: Informace o zpracování a zabezpečení osobních údajů
 linktitle: zasady-zpracovani
 draft: false
 weight: 1004000
-publishDate: 2018-05-18
-lastmod: 2018-05-24
 obrazek: ""
 ---
 Naše společnost, Centrum Břežánek, z.ú., přistupuje k ochraně osobních údajů, která nám předáváte, zodpovědně. Je důležité, abyste věděli, že osobní údaje, které nám poskytujete, zpracováváme korektně, transparentně a v souladu s platnými právními předpisy. V případě jakýchkoliv dotazů, týkajících se zpracování Vašich osobních údajů, se na nás můžete obrátit, a to písemně na adresu sídla společnosti nebo elektronicky na adresu {{< email >}}.

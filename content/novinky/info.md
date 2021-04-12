@@ -2,6 +2,7 @@
 title = "Informace o kurzech"
 linktitle = "info"
 draft = false
+weight = 1012000
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

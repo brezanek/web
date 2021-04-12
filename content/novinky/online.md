@@ -2,6 +2,7 @@
 title = "Máte problém s vybavením k online výuce?"
 linktitle = "online"
 draft = false
+weight = 1010000
 obrazek = "/assets/media/10879420_m.jpg"
 +++
 

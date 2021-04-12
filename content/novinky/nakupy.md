@@ -2,6 +2,7 @@
 title = "Služby pro seniory"
 linktitle = "nakupy"
 draft = false
+weight = 1014000
 obrazek = ""
 +++
 

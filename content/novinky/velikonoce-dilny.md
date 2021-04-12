@@ -1,7 +1,8 @@
 +++
 title = "Velikonoce jinak"
 linktitle = "velikonoce-dilny"
-draft = false
+draft = true
+weight = 1002000
 obrazek = ""
 +++
 

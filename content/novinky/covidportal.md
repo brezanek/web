@@ -2,6 +2,7 @@
 title = "Covid Portál"
 linktitle = "covidportal"
 draft = false
+weight = 1011000
 obrazek = "/assets/media/60968793_s.jpg"
 +++
 

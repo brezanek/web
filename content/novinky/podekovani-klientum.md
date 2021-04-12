@@ -2,6 +2,7 @@
 title = "Poděkování"
 linktitle = "podekovani-klientum"
 draft = false
+weight = 1013000
 obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
 +++
 

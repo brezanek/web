@@ -11,4 +11,4 @@ Divadlo Kůzle zahraje pohádku O čertovi Pletošejlovi , připravena je Mikul�
 
 Těšíme se na Vaše děti, místa si rezervujte již nyní!!  
 
-více informací [ZDE](akce/prosinec-2014/mikulas-divadlo-s-nadilkou.html)
+více informací [ZDE](akce/prosinec-2014/mikulas-divadlo-s-nadilkou/)

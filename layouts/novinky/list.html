@@ -5,7 +5,9 @@
             {{ if .Params.obrazek }}
 	    		<img class="float_left" width="100" src="{{ .Params.obrazek }}" alt="" />
     		{{ end }}
+            <p></p>
             {{ .Content }}
+            <p></p>
             <div class="lastmod"><small><i>(Aktualizace: {{ .Lastmod.Format "2.1.2006" }})</i></small></div>
         </article>
     {{ end }}

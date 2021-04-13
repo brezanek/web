@@ -1,6 +1,6 @@
-baseURL = "https://brezanek.netlify.app/"
+baseURL = "https://www.brezanek.cz/"
 languageCode = "cs-cz"
-title = "Centrum Břežánek - vývoj"
+title = "Centrum Břežánek"
 
 contentDir = "content/"
 defaultContentLanguage = "cs"

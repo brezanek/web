@@ -1,10 +1,10 @@
-+++
-title = "Jarní Break dance a Parkour kemp"
-linktitle = "jarni-kemp"
-draft = false
-weight = 1001000
-obrazek = "/assets/media/breakdance průhld..png"
-+++
+---
+title: Jarní Break dance a Parkour kemp
+linktitle: jarni-kemp
+draft: true
+obrazek: /assets/media/breakdance průhld..png
+weight: 1001000
+---
 
 Termín: 8.-12.3.2021  
 Věk : 7+  

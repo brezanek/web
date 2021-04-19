@@ -1,7 +1,7 @@
 ---
 title: Kemp míčových sportů
 linktitle: micovky
-draft: true
+draft: false
 obrazek: null
 soubory: /assets/media-o-nas/kemp_micovky.pdf
 weight: 10000

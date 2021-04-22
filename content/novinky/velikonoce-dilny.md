@@ -1,9 +1,8 @@
-+++
-title = "Velikonoce jinak"
-linktitle = "velikonoce-dilny"
-draft = true
-weight = 1002000
-obrazek = ""
-+++
-
-![](</assets/media/velikonoce_top(1).jpg>)
+---
+title: Den matek
+linktitle: den_matek
+draft: true
+obrazek: ""
+weight: 1002000
+---
+![](/assets/media/den_matek.png)

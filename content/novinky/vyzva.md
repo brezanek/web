@@ -1,10 +1,10 @@
-+++
-title = "Sportovní výzva"
-linktitle = "vyzva"
-draft = true
-obrazek = "/assets/media/sport_insta.jpg"
-+++
+---
+title: Nulipínkova stezka
+linktitle: stezka
+draft: false
+obrazek: ""
+weight: 50
+---
 
-Sportovní výzva od 22. 3. do 1.4. 2021  
 
-Vyzkoušejte s dětmi zábavnou venkovní sportovní výzvu **Skákající opice:-)**  
+![](/assets/media/nlp_stezka.jpg)

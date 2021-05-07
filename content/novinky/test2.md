@@ -1,8 +1,8 @@
 ---
-title: Čarodějnice
-linktitle: čarodejnice
-draft: true
+title: Den maminek
+linktitle: den_maminek
+draft: false
 obrazek: ""
 weight: 1
 ---
-![](/assets/media/carodejnice.jpg)
+![](/assets/media/den_matek.png)

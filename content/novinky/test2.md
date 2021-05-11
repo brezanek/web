@@ -1,7 +1,7 @@
 ---
 title: Den maminek
 linktitle: den_maminek
-draft: false
+draft: true
 obrazek: ""
 weight: 1
 ---

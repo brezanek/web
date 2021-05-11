@@ -4,6 +4,7 @@ linktitle: kdo-jsme
 draft: false
 weight: 1002000
 obrazek: assets/media-o-nas/foto_prostory_new_small.jpg
+soubory: /assets/media-o-nas/vz_brezanek_2020.pdf
 ---
 Jsme volnočasové centrum pro děti v Dolních Břežanech. U nás si užije celá rodina. Chcete trávit příjemný čas se svými dětmi, dopřát svým dětem zajímavý kurz nebo si společně užít nějakou společnou akci?\
 Spolupracujeme s organizacemi [INLINETALENT](http://www.inlinetalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.\
@@ -24,7 +25,7 @@ Než k nám půjdete, nezapomeňte si přečíst náš [Provozní řád](assets/
 
 #### Výroční zprávy
 
-* VZ 2020
+* [VZ 2020](/assets/media-o-nas/vz_brezanek_2020.pdf)
 * [](assets/media-o-nas/VZ_BREZANEK_2019.pdf)[VZ 2019](assets/media-o-nas/VZ_BREZANEK_2019.pdf)
 * [VZ 2018](assets/media-o-nas/VZ_BREZANEK_2018.pdf)
 * [VZ 2017](assets/media-o-nas/VZ_BREZANEK_2017.pdf)

@@ -22,4 +22,4 @@ DENNÍ PROGRAM
 Podrobnosti ke kempu míčových sportů naleznete [ZDE](/assets/media-o-nas/kemp_micovky.pdf).\
 Přihlásit na kemp se můžete v  [rezervačním systému](https://brezanek.webooker.eu/Actions/Register/125073?returnUrl=Actions&tabName=detail) Centra Břežánek.
 
-![]()
+![](/assets/media/letak-kemp-micovych-sportu.jpg)

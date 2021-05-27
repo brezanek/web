@@ -1,9 +1,8 @@
-+++
-title = "Služby pro seniory"
-linktitle = "nakupy"
-draft = false
-weight = 1014000
-obrazek = ""
-+++
-
-Naše partnerská organizace VIGVAM vám poskytne také důležité [informace o službách pro seniory](https://www.vigvam-db.cz/seniori/predstaveni-cinnosti/) v Dolních Břežanech.
+---
+title: Přidejte se k nám
+linktitle: hledame
+draft: false
+obrazek: ""
+weight: 1007000
+---
+![](/assets/media/inzerat-1-.jpg)

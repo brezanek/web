@@ -1,9 +1,9 @@
-+++
-title = "Z pohádky do pohádky"
-linktitle = "letni-kempy"
-draft = false
-weight = 1007000
-obrazek = ""
-+++
+---
+title: Z pohádky do pohádky
+linktitle: letni-kempy
+draft: true
+obrazek: ""
+weight: 1007000
+---
 
 ![](/assets/media/leto_kemp.jpg)

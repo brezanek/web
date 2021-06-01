@@ -2,7 +2,7 @@
 title: Příměstský kemp Parkour
 linktitle: parkour
 draft: false
-obrazek: /assets/media/breakdance průhld..png
+obrazek: ""
 weight: 1004000
 ---
 [](https://brezanek.webooker.eu/Actions/Register/121607?returnUrl=Actions&tabName=detail)Kemp plný nezapomenutelných skvělých zážitků, vedoucí k celkovému pohybovému rozvoji, který je veden ve sportovním a zábavném duchu. Kromě parkouru a breakdance, který je hlavní náplní, se můžete těšit na další pohybové zábavné aktivity a hry.\

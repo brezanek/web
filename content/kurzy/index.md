@@ -4,10 +4,10 @@ linktitle: kurzy
 draft: false
 weight: 1002000
 obrazek: ""
-soubory: /assets/media-o-nas/rozvrh_2021-22.pdf
+soubory: /assets/media-o-nas/rozvrh_2021-22-2-.pdf
 ---
 Nabízíme širokou škálu [kurzů](https://brezanek.webooker.eu/Courses?semesterID=10483) pro rodiče s dětmi do 3 let až po děti školního věku.\
-[Rozvrh na 1.pololetí školního roku 2021/22.](/assets/media-o-nas/rozvrh_2021-22.pdf)
+[Rozvrh na 1.pololetí školního roku 2021/22.](/assets/media-o-nas/rozvrh_2021-22-2-.pdf)
 
 ![](/assets/media/brez_kurzy_rozvrh.jpg)
 

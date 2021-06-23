@@ -7,7 +7,9 @@ obrazek: assets/media-o-nas/foto_prostory_new_small.jpg
 soubory: /assets/media-o-nas/vz_brezanek_2020.pdf
 ---
 Jsme volnočasové centrum pro děti v Dolních Břežanech. U nás si užije celá rodina. Chcete trávit příjemný čas se svými dětmi, dopřát svým dětem zajímavý kurz nebo si společně užít nějakou společnou akci?\
-Spolupracujeme s organizacemi [INLINETALENT](http://www.inlinetalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.\
+Spolupracujeme s organizacemi [TOM TALENT](https://tomtalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Aktivity pro dospělé a seniory nabízíme v naší partnerské organizaci [VIGVAM, z.ú.](https://www.vigvam-db.cz/)
+
+Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.\
 O bezproblémový chod Centra Břežánek se stará stabilní tým, naší snahou je nabízet kvalitní služby a přinášet inovativní nápady.\
 Centrum Břežánek je vždy plné dětí, rodičů, nových nápadů a smíchu :)\
 Přijďte se k nám podívat.\
@@ -38,3 +40,7 @@ Než k nám půjdete, nezapomeňte si přečíst náš [Provozní řád](assets/
 * [VZ 2010](assets/media-o-nas/Vyrocni_zprava_2010.pdf)
 * [VZ 2009](assets/media-o-nas/Vyrocni_zprava_2009.pdf)
 * [VZ 2008](assets/media-o-nas/Vyrocni_zprava_2008.pdf)
+
+  ![](/assets/media-o-nas/sit_clen.jpg)
+
+  ![](/assets/media-o-nas/vigvam_500x408.png)

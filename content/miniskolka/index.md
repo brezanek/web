@@ -41,7 +41,7 @@ celodenní stravné (včetně pitného režimu)....100,- Kč
 
 **Omluva dítěte z docházky v Dětské skupině** Omluvy je nutné provés v online systému do 12h předchozího dne. V případě, že dítě nebude řádně omluveno, bude účtováno stravné.  
 
-[CO BUDE VAŠE DÍTĚ POTŘEBOVAT DO MINIŠKOLKY](<**assets/media-o-nas/co bude vaše dítě potřebovat.pdf**>)
+[CO BUDE VAŠE DÍTĚ POTŘEBOVAT DO MINIŠKOLKY](<**assets/media-o-nas/co bude vaše dítě potřebovat.pdf**>)?
 
 **Personální zajištění** pečovatelky:\
 Zuzana Rosecká\

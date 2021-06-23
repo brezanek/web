@@ -19,8 +19,6 @@ Pro přijetí do Dětské skupiny musíte splnit [Kritéria pro přijetí dítě
 Zájemci o umístění dítěte do Dětské skupiny Břežánek ve školním roce 2021/22 nám mohou [vyplnit svůj zájem.](https://brezanek.webooker.eu/Activities)\
 Osobní pohovor si objednejte na brezanek@brezanek.cz  
 
-![](/assets/media/brezanek-1-.png)
-
 Dětská skupina Břežánek absolvovala dne 22.9.2020 Audit značky kvality a získala od Ministerstva práce a sociálních věcí [**Certifikát značky kvality**.](http://www.dsmpsv.cz/cs/pro-rodice/jak-vybrat-detskou-skupinu/ds-se-znackou-kvality) Značka kvality reprezentuje hodnotu dětské skupiny nad povinný legislativní rámec. Získání Značky kvality znamená, že naše Dětská skupina plní nejen povinnosti dané zákony a vyhláškami, ale navíc posiluje kvalitu péče rozvíjením činnosti v oblastech Filosofi e dětské skupiny/Plán výchovy a péče a jeho naplňování/ Pečující osoby/Provoz dětské skupiny/Adaptačníobdobí/Bezpečnost a hygiena/ Genderový a environmentální aspekt.  
 
 **Provoz Dětské skupiny v době školních prázdnin a svátků:**\
@@ -64,3 +62,7 @@ Provozní řád, Smlouva s rodiči, Přihláška do Dětské skupiny, Adaptačn�
 
 **Dotazy**\
 Případné dotazy Vám zodpovíme na miniskolka@brezanek.cz.
+
+![](/assets/media/eu.jpg)
+
+![](/assets/media/brezanek-1-.png)

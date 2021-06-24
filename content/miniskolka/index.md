@@ -3,9 +3,9 @@ title: Dětská skupina
 linktitle: miniskolka
 draft: false
 weight: 1005000
-obrazek: /assets/media/maskot_supersmall.jpg
+obrazek: ""
 ---
-### " Břežánek je kamarád, do školičky chodím rád!"
+![](/assets/media/baner_ds.jpg)
 
 **Miniškolka Břežánek v režimu Dětské skupiny** (v provozu od září 2016)Dětská skupina Břežánek byla zřízena s cílem rozšířit služby péče o dítě v Dolních Břežanech a zlepšit tak podmínky pro zaměstnanost žen s dětmi, které se tak mohou zaměřit na zvýšení svého pracovního úvazku, podpořit své podnikání nebo zvýšit svou kvalifikaci pro budoucí povolání.\
 Dětská skupina Břežánek nabízí bohatý, zajímavý a ucelený program pro děti s hlavním mottem **"Svět kolem nás"** . Naší filosofií je rozvíjet samostatné a zdravě sebevědomé děti cestou přirozené výchovy. Program je koncipovaný podle momentálního věkového složení skupiny. Vycházíme z moderního pojetí péče a výchovy pro děti od dvou let. Zaměřuje se hlavně na to, aby bylo dítě rozvíjeno dle jeho vývojového, emocionálního stupně a individuálních potřeb. Je kladen důraz na správné hygienické návyky, na samostatnost a sebepoznání dítěte, jeho přirozený a komplexní rozvoj. Náš hlavní cíl je naplňování přijaté filosofie. Na začátku docházky vašeho dítěte je jeho klidné a šťastné začlenění do kolektivu vrstevníků, zvládnutí sebeobsluhy a komunikačních schopností. Samozřejmostí je naše schopnost pracovat s dětmi individuálně a podle jejich aktuálních dovedností a schopností.\

@@ -1,9 +1,8 @@
-+++
-title = "HALLOWEEN"
-linktitle = "halloween"
-draft = true
-weight = 1012000
-obrazek = ""
-+++
-
-![](/assets/media/dýně%20hall.jpg)
+---
+title: HALLOWEEN
+linktitle: halloween
+draft: false
+obrazek: ""
+weight: 1012000
+---
+![](/assets/media/baner_halloween.jpg)

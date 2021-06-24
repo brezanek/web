@@ -1,10 +1,10 @@
-+++
-title = "Dárkový poukaz"
-linktitle = "poukaz"
-draft = false
-weight = 1009000
-obrazek = "/assets/media/CB_dárkový poukaz_500_rám.jpg"
-+++
+---
+title: Dárkový poukaz
+linktitle: poukaz
+draft: true
+obrazek: /assets/media/CB_dárkový poukaz_500_rám.jpg
+weight: 1009000
+---
 
 Milí klienti,  
 připravili jsme pro vás novinku v podobě **Dárkového poukazu** na kurzy [Centra Břežánek](https://brezanek.webooker.eu/Courses?semesterID=10633) nebo [VIGVAMu](https://vigvam.webooker.eu/Courses?semesterID=10634). Dárkový poukaz v různých hodnotách můžete zakoupit pomocí Rezervačního systému.  

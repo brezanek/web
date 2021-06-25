@@ -10,7 +10,8 @@ weight: 1004000
 Kniha **Tři kouzelné kamínky skřítka Nulipínka**  [obsahuje](https://katkaduskova.cz/kniha-nlp-pohadek/) 12 pohádek, otázky pro děti, nápady na tvoření a aktivity. Na své si přijdou i dospělí.  
 
 **Jak knihu objednat?**   \
-1. Navštivte webové stránky: [www.katkaduskova.cz](http://www.katkaduskova.cz) \
+
+1. Navštivte webové stránky: [www.katkaduskova.cz](http://www.katkaduskova.cz) 
 2. Objednejte knížku na své jméno a jako dopravu označte osobní odběr Dolní Břežany. 3. Zaplaťte online a připravte si doklad o zaplacení, který vám přijde e-mailem.
 
 Pak už vás bude Nulipínek vyhlížet v Centru Břežánek ( Na Panský 11, Dolní Břežany).\

@@ -5,7 +5,7 @@ draft: false
 obrazek: ""
 weight: 10
 ---
-![](/assets/media/leto_baner.jpg)
+![](/assets/media/leto_baner-1-.jpg)
 
 Centrum Břežánek nabízí ve spolupráci s dalšími organizacemi jarní, letní i podzimní příměstské kempy.\
 V nabídce jsou sportovní kempy Tom Talent, kempy s Robotikou nebo Parkourem.\

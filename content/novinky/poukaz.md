@@ -1,8 +1,8 @@
 ---
-title: Dárkový poukaz
-linktitle: poukaz
-draft: true
-obrazek: /assets/media/CB_dárkový poukaz_500_rám.jpg
+title: Krásné léto
+linktitle: leto
+draft: false
+obrazek: /assets/media/baner_leto.jpg
 weight: 1009000
 ---
 

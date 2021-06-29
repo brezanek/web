@@ -1,8 +1,8 @@
 ---
 title: Krásné léto
 linktitle: leto
-draft: false
-obrazek: /assets/media/baner_leto.jpg
+draft: true
+obrazek: ""
 weight: 3
 ---
 

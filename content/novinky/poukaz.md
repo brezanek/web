@@ -3,7 +3,7 @@ title: Krásné léto
 linktitle: leto
 draft: false
 obrazek: /assets/media/baner_leto.jpg
-weight: 1009000
+weight: 3
 ---
 
 Milí klienti,  

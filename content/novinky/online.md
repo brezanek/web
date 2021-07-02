@@ -3,6 +3,6 @@ title: Zápisy do kurzů
 linktitle: zapisy
 draft: false
 obrazek: ""
-weight: 4
+weight: 6
 ---
 ![](/assets/media/zaapisy.jpg)

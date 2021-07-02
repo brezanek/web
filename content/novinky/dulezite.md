@@ -1,7 +1,7 @@
 ---
 title: Provoz kurzů
 linktitle: dulezite
-draft: false
+draft: true
 obrazek: ""
 soubory: /assets/media-o-nas/cestne_prohlaseni_kurzy_covid.pdf
 weight: 1009000

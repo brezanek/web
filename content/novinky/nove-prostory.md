@@ -1,5 +1,5 @@
 ---
-title: Novinky báječný letní kemp!
+title: Novinka - báječný letní kemp!
 linktitle: kemp
 draft: false
 obrazek: ""

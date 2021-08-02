@@ -1,7 +1,7 @@
 ---
 title: Kemp Miluj, směj se žij!
 linktitle: miluj
-draft: false
+draft: true
 weight: 10000
 ---
 Novinkou je kemp pro děti od 6ti let ve spolupráci s týmem Miluj, směj se žij!\

@@ -1,7 +1,7 @@
 ---
 title: Novinka - báječný letní kemp!
 linktitle: kemp
-draft: false
+draft: true
 obrazek: ""
 weight: 4
 ---

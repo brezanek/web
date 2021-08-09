@@ -12,4 +12,4 @@ Na prázdniny 2021 jsme připravili letní příměstské kempy ROBOTIKY\
 Kempy budou probíhat v klubovně Infocentra v Dolních Břežanech.\
 Na děti se už těšíme!
 
-![](/assets/media/kopie-navrhu-plakat-letni-tabor-1-.png)
+![](/assets/media/kempy_robotika.jpg)

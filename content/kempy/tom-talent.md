@@ -1,10 +1,10 @@
-+++
-title = "Příměstské kempy TOM TALENT"
-linktitle = "tom-talent"
-draft = false
-weight = 1002000
-obrazek = ""
-+++
+---
+title: Příměstské kempy TOM TALENT
+linktitle: tom-talent
+draft: false
+obrazek: ""
+weight: 4
+---
 
 V roce 2021 budou opět probíhat letní příměstské kempy ve spolupráci s organizací [TOM TALENT](https://www.tomtalent.cz/).  
 Přihlásit na kempy se se budete moci přihlásit v od 11.ledna 2021 [ZDE](https://tomtalent.webooker.eu/Courses?semesterID=21541), kompletní informace [ZDE.](https://www.tomtalent.cz/)  

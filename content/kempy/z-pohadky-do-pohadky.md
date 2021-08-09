@@ -1,10 +1,10 @@
-+++
-title = "Z pohádky do pohádky"
-linktitle = "z-pohadky-do-pohadky"
-draft = false
-weight = 1001500
-obrazek = ""
-+++
+---
+title: Z pohádky do pohádky
+linktitle: z-pohadky-do-pohadky
+draft: true
+obrazek: ""
+weight: 1001500
+---
 
 **Co bude náplní kempu?**
 

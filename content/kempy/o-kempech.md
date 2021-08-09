@@ -3,7 +3,7 @@ title: O kempech
 linktitle: o-kempech
 draft: false
 obrazek: ""
-weight: 10
+weight: 1
 ---
 ![](/assets/media/leto_baner-1-.jpg)
 

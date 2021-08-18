@@ -1,7 +1,7 @@
 ---
 title: Hurá prázdniny!
 linktitle: prazdniny
-draft: false
+draft: true
 obrazek: ""
 weight: 3
 ---

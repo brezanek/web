@@ -1,8 +1,8 @@
 ---
 title: Centrum Břežánek
-linktitle: kempy
+linktitle: promo
 draft: false
 obrazek: ""
-weight: 2
+weight: 4
 ---
 ![](/assets/media/baner__cisla-1-.jpg)

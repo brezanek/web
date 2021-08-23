@@ -1,8 +1,8 @@
 ---
-title: Zápisy do kurzů
-linktitle: zapisy
+title: Začínáme
+linktitle: začínáme
 draft: false
 obrazek: ""
 weight: 6
 ---
-![](/assets/media/zaapisy.jpg)
+![](/assets/media/zac_kurzu.jpg)

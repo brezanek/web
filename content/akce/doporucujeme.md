@@ -3,7 +3,7 @@ title: Den otevřených dveří
 linktitle: den_otevrenych_dveri
 draft: false
 obrazek: ""
-weight: 1004000
+weight: 2
 ---
 ![](/assets/media/dod.jpg)
 

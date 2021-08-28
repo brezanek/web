@@ -1,10 +1,11 @@
-+++
-title = "Zdobení adventních věnců"
-linktitle = "vence"
-draft = true
-weight = 1014000
-obrazek = "/assets/media/adventni-venec.jpg"
-+++
+---
+title: Zdobení adventních věnců
+linktitle: vence
+draft: false
+obrazek: ""
+weight: 9
+---
+Užijte si předvánoční atmosféru společně s dětmi právě na našem  workshopu.\
+misto si rezervujte v našem [rezervačním systému](https://brezanek.webooker.eu/).
 
-Zdobení adventních věnců pro rodiče s dětmi.
-
+![](/assets/media/vence_baner.jpg)

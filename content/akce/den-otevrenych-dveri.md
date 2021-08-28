@@ -3,6 +3,6 @@ title: Retro výstava
 linktitle: retro
 draft: false
 obrazek: ""
-weight: 1005000
+weight: 3
 ---
 ![](/assets/media/retro.jpg)

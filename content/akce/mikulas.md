@@ -1,10 +1,10 @@
-+++
-title = "Mikulášská nadílka"
-linktitle = "mikulas"
-draft = true
-weight = 1015000
-obrazek = ""
-+++
+---
+title: Mikulášské divadlo s nadílkou
+linktitle: mikulas
+draft: false
+obrazek: ""
+weight: 1015000
+---
+Na akci je potřeba si rezervovat místo v našem [rezervačním systému](https://brezanek.webooker.eu/).
 
-![](/assets/media/2020-12-04_MIKULÁŠ_CB.jpg)  
-
+![](/assets/media/mikulas_baner.jpg)

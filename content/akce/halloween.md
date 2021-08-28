@@ -3,6 +3,6 @@ title: HALLOWEEN
 linktitle: halloween
 draft: false
 obrazek: ""
-weight: 1012000
+weight: 9
 ---
 ![](/assets/media/baner_halloween.jpg)

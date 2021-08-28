@@ -1,10 +1,10 @@
-+++
-title = "Svatováclavské slavnosti"
-linktitle = "slavnosti"
-draft = true
-weight = 1006000
-obrazek = ""
-+++
+---
+title: Hraj si v zahradě
+linktitle: zahrada
+draft: true
+obrazek: ""
+weight: 3
+---
+Užijte si společnou zábavu s dětmi. V zahradě infocentra bude pro děti přichystána překažková dráha a venkovní hry. Přijít můžete bez rezervace. 
 
-Centrum Břežánek pro Vás na Svatováclavských slavnostech připravuje kreativní workshop a zajímavou výstavu.   
-Nezapomeňte nás navštívit, těšíme se na Vás.
+![](/assets/media/baner_zahrada.jpg)

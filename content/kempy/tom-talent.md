@@ -1,7 +1,7 @@
 ---
 title: Příměstské kempy TOM TALENT
 linktitle: tom-talent
-draft: false
+draft: true
 obrazek: ""
 weight: 4
 ---

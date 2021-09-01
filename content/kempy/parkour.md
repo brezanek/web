@@ -1,7 +1,7 @@
 ---
 title: Příměstský kemp Parkour
 linktitle: parkour
-draft: false
+draft: true
 obrazek: ""
 weight: 2
 ---

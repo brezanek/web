@@ -1,7 +1,7 @@
 ---
 title: Retro výstava
 linktitle: retro
-draft: false
+draft: true
 obrazek: ""
 weight: 3
 ---

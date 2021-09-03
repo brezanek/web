@@ -5,6 +5,7 @@ draft: false
 obrazek: ""
 weight: 2
 ---
-Podrobný program naleznete [ZDE](https://www.brezanek.cz/akce/).
+Děkujeme všem, kteří přišli na Den otevřených dveří. \
+Strávili jsme s vámi parádní odpoledne :-)
 
-![](/assets/media/dod_3.jpg)
+![]()

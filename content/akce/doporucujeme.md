@@ -1,7 +1,7 @@
 ---
 title: Den otevřených dveří
 linktitle: den_otevrenych_dveri
-draft: false
+draft: true
 obrazek: ""
 weight: 2
 ---

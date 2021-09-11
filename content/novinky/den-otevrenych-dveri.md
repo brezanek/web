@@ -7,5 +7,5 @@ weight: 2
 ---
 **Nezapoměňte** sledovat, co pro vás a vaše děti připarvujeme za **[AKCE](https://www.brezanek.cz/akce/)**.\
 \
-Celé září  Hraj si v zahradě\
-18. 9. se na vás těšíme na scatováclavských slavnostech.
+Celé září vždy ve čtvrtek 15- 18h  Hraj si v zahradě.\
+18. září se na vás těšíme na Svatováclavských slavnostech.

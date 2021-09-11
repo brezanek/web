@@ -1,9 +1,10 @@
-+++
-title = "Podzimní prázdniny s Tom Talent"
-linktitle = "podzimni-prazdniny"
-draft = true
-obrazek = "/assets/media/Dōtskž_sportovn°_svōt.jpeg"
-+++
+---
+title: Podzimní prázdniny
+linktitle: podzimni-prazdniny
+draft: false
+obrazek: ""
+weight: 4
+---
+Registrace již spuštěna, informace [ZDE](https://brezanek.webooker.eu/), tak si pospěšte:-)  
 
-Registrace již spuštěna, informace [ZDE](kempy/), tak si pospěšte:-)  
-
+![](/assets/media/podzimky.jpg)

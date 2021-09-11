@@ -1,8 +1,8 @@
-+++
-title = "7.9. začínáme"
-linktitle = "start"
-draft = true
-obrazek = "/assets/media/brezanek_bezpozadi - kopie.png"
-+++
-
-V týdnu od 7.9.2020 nám začíná většina kurzů. Přesné začátky jednotlivých kurzů naleznete v mailu.Těšíme se na Vás.
+---
+title: Herna pro děti s rodiči
+linktitle: herna_zvole
+draft: true
+obrazek: ""
+weight: 3
+---
+![](/assets/media/baner_-herna.jpg)

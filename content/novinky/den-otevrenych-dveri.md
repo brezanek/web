@@ -1,9 +1,11 @@
 ---
-title: Den otevřených dveří
-linktitle: den-otevrenych-dveri
+title: Nejbližší akce
+linktitle: akce
 draft: false
 obrazek: ""
 weight: 2
 ---
-Děkujeme všem, kteří přišli na Den otevřených dveří. \
-Strávili jsme s vámi parádní odpoledne :-)
+**Nezapoměňte** sledovat, co pro vás a vaše děti připarvujeme za **[AKCE](https://www.brezanek.cz/akce/)**.\
+\
+Celé září  Hraj si v zahradě\
+18. 9. se na vás těšíme na scatováclavských slavnostech.

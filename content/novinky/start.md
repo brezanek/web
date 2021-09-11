@@ -1,8 +1,8 @@
 ---
 title: Herna pro děti s rodiči
 linktitle: herna_zvole
-draft: true
+draft: false
 obrazek: ""
-weight: 3
+weight: 2
 ---
 ![](/assets/media/baner_-herna.jpg)

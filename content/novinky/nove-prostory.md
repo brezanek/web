@@ -1,7 +1,7 @@
 ---
 title: MYŠKY
 linktitle: kemp
-draft: true
+draft: false
 obrazek: ""
 weight: 4
 ---

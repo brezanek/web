@@ -1,5 +1,5 @@
 ---
-title: PRÁČATA
+title: PTÁČATA
 linktitle: street
 draft: false
 obrazek: ""

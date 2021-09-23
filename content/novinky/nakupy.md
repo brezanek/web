@@ -1,7 +1,7 @@
 ---
 title: Přidejte se k nám
 linktitle: hledame
-draft: false
+draft: true
 obrazek: ""
 weight: 1004000
 ---

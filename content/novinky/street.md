@@ -5,4 +5,6 @@ draft: false
 obrazek: ""
 weight: 6
 ---
-![](/assets/media/ptacata_web.jpg)
+Do kurzu [Ptáčata](https://brezanek.webooker.eu/Courses) se stále můžete přihlásit, zbývá pár posledních míst.
+
+![](/assets/media/ptacata_bener.jpg)

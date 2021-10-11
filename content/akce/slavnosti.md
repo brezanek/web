@@ -1,10 +1,13 @@
 ---
-title: Hraj si v zahradě
-linktitle: zahrada
+title: Halloweenské tvoření
+linktitle: pavouk
 draft: false
 obrazek: ""
 weight: 2
 ---
-Užijte si společnou zábavu s dětmi. V zahradě infocentra bude pro děti přichystána překažková dráha a venkovní hry. Přijít můžete bez rezervace. 
+Halloweenské tvoření pro děti 5+. \
+Děti si vyrobí pavouka s pavučinou. \
+Výrobek si pomocí klipu budou moci připnout na strašidelný oděv:-)\
+Místo si rezervujte v našem [rezervačním systému](https://brezanek.webooker.eu/).
 
-![](/assets/media/baner_zahrada.jpg)
+![](/assets/media/pavouk.jpg)

@@ -3,7 +3,7 @@ title: Halloweenské tvoření
 linktitle: pavouk
 draft: false
 obrazek: ""
-weight: 2
+weight: 3
 ---
 Halloweenské tvoření pro děti 5+. \
 Děti si vyrobí pavouka s pavučinou. \

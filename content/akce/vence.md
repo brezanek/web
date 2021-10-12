@@ -6,6 +6,6 @@ obrazek: ""
 weight: 9
 ---
 Užijte si předvánoční atmosféru společně s dětmi právě na našem  workshopu.\
-misto si rezervujte v našem [rezervačním systému](https://brezanek.webooker.eu/).
+místo si rezervujte v našem [rezervačním systému](https://brezanek.webooker.eu/).
 
-![](/assets/media/vence_baner.jpg)
+![](/assets/media/vence_baner-1-.jpg)

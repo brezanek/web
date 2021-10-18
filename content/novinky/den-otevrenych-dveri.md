@@ -3,7 +3,7 @@ title: Nejbližší akce
 linktitle: akce
 draft: false
 obrazek: ""
-weight: 2
+weight: 3
 ---
 **Nezapoměňte** sledovat, co pro vás a vaše děti připravujeme za **[AKCE](https://www.brezanek.cz/akce/)**.\
 \

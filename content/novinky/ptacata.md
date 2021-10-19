@@ -1,7 +1,7 @@
 ---
 title: PIŠKOTI
 linktitle: piškoti
-draft: false
+draft: true
 obrazek: ""
 weight: 3
 ---

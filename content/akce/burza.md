@@ -1,18 +1,14 @@
-+++
-title = "BURZA - jaro/léto"
-linktitle = "burza"
-draft = true
-weight = 1011000
-obrazek = "/assets/media/Připravujeme_pro_vás_JARNÍ_BURZU.jpg"
-+++
+---
+title: BURZA zimního oblečení a vybavení
+linktitle: burza
+draft: false
+obrazek: ""
+weight: 6
+---
+A zima může začít, protože u nás skvěle nakoupíte dětské i dospělácké kousky.\
+**Příjem zboží       15.11.2021**\
+**PRODEJ              16.11.2021**\
+**Výdej zboží        18.11.2021**\
+Podrobnosti prodeje a registraci zájemců o prodej brzy zveřejníme:-)
 
-Přijďte si prodat a nakoupit jarní oblečení, obuv, hračky či sportovní vybavení.  
-Prodávající bude prodávat své zboží sám, bude mít k dispozici prodejní plochu - stůl 140 x 70 cm.
-
-Poplatek za pronájem prodejní plochy: 150 Kč / 1 den  
-Podmínkou prodeje je nabídka čistého a funkčního zboží.  
-Počet prodejních míst omezen.  
-Výtěžek z burzy bude použit na nákup hraček na pískoviště u Kulturního a informačního centra.
-
-Přihlásit k prodeji na burze se můžete v [Rezervačním systému](https://brezanek.webooker.eu/Actions/Register/121641?returnUrl=Actions&tabName=detail)
-
+![](/assets/media/baner_burza.jpg)

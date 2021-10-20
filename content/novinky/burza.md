@@ -1,9 +1,14 @@
-+++
-title = "Burza jinak :-)"
-linktitle = "burza"
-draft = true
-obrazek = "/assets/media/burza.jpg"
-+++
+---
+title: Burza zimního oblečení a vybavení
+linktitle: burza
+draft: false
+obrazek: ""
+weight: 6
+---
+A zima může začít, protože u nás skvěle nakoupíte dětské i dospělácké kousky.\
+Příjem zboží 15.11.2021\
+PRODEJ 16.11.2021\
+Výdej zboží 18.11.2021\
+Podrobnosti prodeje a registraci zájemců o prodej brzy zveřejníme:-)
 
-Na duben připravujeme Burzu oblečení. Pozor, podmínky pro prodej budou jiné! Nabídneme místo k prodeji a o samotný prodej se musíte postarat sami. Podrobnosti [ZDE](sluzby/akce/)  
-Těšíme se na Vás
+![](/assets/media/baner_burza.jpg)

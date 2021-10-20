@@ -5,10 +5,6 @@ draft: false
 obrazek: ""
 weight: 5
 ---
-A zima může začít, protože u nás skvěle nakoupíte dětské i dospělácké kousky.\
-Příjem zboží 15.11.2021\
-PRODEJ 16.11.2021\
-Výdej zboží 18.11.2021\
-Podrobnosti prodeje a registraci zájemců o prodej brzy zveřejníme:-)
+Chcete vědět [více](https://www.brezanek.cz/akce/)?
 
 ![](/assets/media/baner_burza.jpg)

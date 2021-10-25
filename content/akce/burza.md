@@ -11,6 +11,6 @@ A zima může začít, protože u nás skvěle nakoupíte dětské i dospěláck
 **PRODEJ              16.11.2021**\
 **Výdej zboží        18.11.2021**\
 Podívejte se na [podrobnosti k  prodeji](/assets/media-o-nas/burza_podminky.pdf). \
-Zájemci o prodej se musí [ZDE](https://docs.google.com/forms/d/1CUZaKzPmslzg56Gb8mlE5GJdgx1hlrDcI-K2rsOcoHA/prefill) zaregistrovat. 
+Zájemci o prodej se musí [](https://docs.google.com/forms/d/1CUZaKzPmslzg56Gb8mlE5GJdgx1hlrDcI-K2rsOcoHA/prefill) zaregistrovat.  Registraci brzy spustíme.
 
 ![](/assets/media/baner_burza.jpg)

@@ -1,7 +1,7 @@
 ---
 title: Kemp Miluj, směj se žij!
 linktitle: miluj
-draft: false
+draft: true
 weight: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Příměstské kempy ROBOTIKA
 linktitle: robotika
-draft: false
+draft: true
 obrazek: ""
 weight: 3
 ---

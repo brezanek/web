@@ -7,4 +7,4 @@ weight: 5
 ---
 Chcete vědět [více](https://www.brezanek.cz/akce/)?
 
-![](/assets/media/baner_burza.jpg)
+![](/assets/media/baner_burza-1-.jpg)

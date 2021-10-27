@@ -1,7 +1,7 @@
 ---
 title: Podzimní prázdniny
 linktitle: podzim
-draft: false
+draft: true
 weight: 2
 ---
 ![](/assets/media/podzimky.jpg)

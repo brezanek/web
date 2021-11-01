@@ -1,7 +1,7 @@
 ---
 title: Halloweenské tvoření
 linktitle: pavouk
-draft: false
+draft: true
 obrazek: ""
 weight: 3
 ---

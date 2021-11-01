@@ -1,7 +1,7 @@
 ---
 title: PTÁČATA
 linktitle: street
-draft: false
+draft: true
 obrazek: ""
 weight: 6
 ---

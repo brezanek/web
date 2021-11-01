@@ -19,6 +19,8 @@ V letošním školním  roce jsme pro rodiče s malými dětmi připravili hernu
 
 ![](/assets/media/baner_piskoti-1-.jpg)
 
+![](/assets/media/ptacata_bener.jpg)
+
 Veškeré informace ke kurzům - **cena, informace o lektorech, místo konání, začátek kurzu, zrušení lekce** nebo obecné podmínky pro kurzy naleznete v našem [rezervačním systému](https://brezanek.webooker.eu/). Vše si můžete prohlédnout i **bez předchozí registrace** . V případě, že Vámi vybraný kurz je již obsazen, zapište se v našem rezervačním systému jako náhradník.\
 Nevíte si rady? Máme pro vás **odpovědi** , jak se v rezervačním systému [pohybovat](https://brezanek.webooker.eu/HtmlContent?contentType=1), jak se [omluvit](https://webooker.freshdesk.com/support/solutions/articles/19000065943-omluvy-a-n%C3%A1hrady-ze-strany-klienta-verze-pro-pc) nebo jak se [připojit k on-line lekci](</assets/media-o-nas/online lekce návod.pdf>), k dispozici je i [fotonávod](</assets/media-o-nas/online lekce návod1.pdf>).  
 

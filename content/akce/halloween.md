@@ -1,7 +1,7 @@
 ---
 title: HALLOWEEN
 linktitle: halloween
-draft: false
+draft: true
 obrazek: ""
 weight: 2
 ---

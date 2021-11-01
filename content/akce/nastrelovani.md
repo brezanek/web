@@ -1,7 +1,7 @@
 ---
 title: Robotický Halloween
 linktitle: workshop
-draft: false
+draft: true
 obrazek: ""
 weight: 5
 ---

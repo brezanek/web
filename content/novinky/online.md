@@ -1,7 +1,7 @@
 ---
 title: Pozor, bude zavřeno
 linktitle: začínáme
-draft: false
+draft: true
 obrazek: ""
 soubory: ""
 weight: 2

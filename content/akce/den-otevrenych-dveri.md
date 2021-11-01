@@ -1,7 +1,7 @@
 ---
 title: Halloweenské malování na obličej
 linktitle: retro
-draft: false
+draft: true
 obrazek: ""
 weight: 4
 ---

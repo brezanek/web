@@ -1,6 +1,6 @@
 ---
 title: Nová opatření od 22.11.2021
-linktitle: burza
+linktitle: covid
 draft: false
 obrazek: ""
 weight: 5

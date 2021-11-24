@@ -1,7 +1,7 @@
 ---
 title: Akce v roce 2022
 linktitle: mikulas
-draft: true
+draft: false
 obrazek: ""
 weight: 7
 ---

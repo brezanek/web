@@ -1,10 +1,10 @@
 ---
 title: Mikulášské divadlo s nadílkou
 linktitle: mikulas
-draft: false
+draft: true
 obrazek: ""
 weight: 7
 ---
-Na akci je potřeba si rezervovat místo v našem [rezervačním systému](https://brezanek.webooker.eu/).
+Je nám to moc líto, ale Mikulášské divadlo jsme museli zrušit. 
 
 ![](/assets/media/mikulas_baner.jpg)

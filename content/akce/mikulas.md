@@ -1,10 +1,10 @@
 ---
-title: Mikulášské divadlo s nadílkou
+title: Akce v roce 2022
 linktitle: mikulas
 draft: true
 obrazek: ""
 weight: 7
 ---
-Je nám to moc líto, ale Mikulášské divadlo jsme museli zrušit. 
 
-![](/assets/media/mikulas_baner.jpg)
+
+![](/assets/media/akce_22.jpg)

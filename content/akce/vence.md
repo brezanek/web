@@ -1,7 +1,7 @@
 ---
 title: Zdobení adventních věnců
 linktitle: vence
-draft: false
+draft: true
 obrazek: ""
 weight: 9
 ---

@@ -1,7 +1,7 @@
 ---
 title: Nejbližší akce
 linktitle: akce
-draft: false
+draft: true
 obrazek: ""
 weight: 3
 ---

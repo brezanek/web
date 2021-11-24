@@ -17,7 +17,7 @@ V letošním školním  roce jsme pro rodiče s malými dětmi připravili hernu
 
 ![](/assets/media/baner_mysky.jpg)
 
-![](/assets/media/baner_piskoti-1-.jpg)
+![]()
 
 ![](/assets/media/ptacata_bener.jpg)
 

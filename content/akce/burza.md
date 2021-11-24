@@ -1,7 +1,7 @@
 ---
 title: BURZA zimního oblečení a vybavení
 linktitle: burza
-draft: false
+draft: true
 obrazek: ""
 soubory: /assets/media-o-nas/burza_podminky.pdf
 weight: 6

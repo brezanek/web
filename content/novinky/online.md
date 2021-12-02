@@ -1,7 +1,7 @@
 ---
 title: Nový kurz v roce 2022
 linktitle: predskolaci
-draft: true
+draft: false
 obrazek: ""
 soubory: ""
 weight: 2

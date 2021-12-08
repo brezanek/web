@@ -21,7 +21,7 @@ Od září 2019 nás naleznete v nově zrekonstruované budově [Kulturního inf
 V 1. patře naleznete recepci, kde získáte informace o kurzech a akcích. Zde jsou umístěny také prostory pro Dětskou skupinu Břežánek a prostory pro volnočasové kurzy.\
 Ve 2. patře má Centrum Břežánek cvičební sál, kde probíhají sportovní kurzy. Sál je vybaven dřevěnou podlahou, zrcadlovou stěnou a různými sportovními pomůckami.\
 Pro naše aktivity využíváme také další prostory [Kulturního centra](http://ric-dolnibrezany.cz/), sportovní halu při ZŠ Dolní Břežany, tělocvičnu a sál školy da Vinci v Dolních Břežanech.\
-Než k nám půjdete, nezapomeňte si přečíst náš [Provozní řád](assets/media-o-nas/Provozni_rad_2020.pdf).
+Než k nám půjdete, nezapomeňte si přečíst náš [Provozní řád](https://brezanek.webooker.eu/HtmlContent?contentType=0).
 
 ![](assets/media-o-nas/telocvicna_ric.jpg)
 

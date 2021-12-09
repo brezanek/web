@@ -45,6 +45,6 @@ Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostře
 * [VZ 2009](assets/media-o-nas/Vyrocni_zprava_2009.pdf)
 * [VZ 2008](assets/media-o-nas/Vyrocni_zprava_2008.pdf)
 
-  ![](/assets/media-o-nas/sit_clen.jpg)
+  ![]()
 
-  ![](/assets/media-o-nas/vigvam_500x408.png)
+  ![]()

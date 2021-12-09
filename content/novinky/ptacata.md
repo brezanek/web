@@ -1,10 +1,10 @@
 ---
-title: PIŠKOTI
-linktitle: piškoti
-draft: true
+title: zápisy na 2. pololetí 2021/22
+linktitle: zapisy
+draft: false
 obrazek: ""
 weight: 3
 ---
-[Rezervovat](https://brezanek.webooker.eu/Courses/Register/126474?returnUrl=Courses&tabName=detail) místo v kurzu PIŠKOTI si můžete již nyní.
+[](https://brezanek.webooker.eu/Courses/Register/126474?returnUrl=Courses&tabName=detail)
 
-![](/assets/media/baner_piskoti-1-.jpg)
+![](/assets/media/zapisy_2_pol_22.jpg)

@@ -3,9 +3,11 @@ title: Centrum Břežánek
 linktitle: kdo-jsme
 draft: false
 weight: 1002000
-obrazek: assets/media-o-nas/foto_prostory_new_small.jpg
+obrazek: ""
 soubory: /assets/media-o-nas/vz_brezanek_2020.pdf
 ---
+![](/assets/media-o-nas/brezanek_foto.jpg)
+
 Jsme volnočasové centrum pro děti v Dolních Břežanech. U nás si užije celá rodina. Chcete trávit příjemný čas se svými dětmi, dopřát svým dětem zajímavý kurz nebo si společně užít nějakou společnou akci?\
 Spolupracujeme s organizacemi [TOM TALENT](https://tomtalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Aktivity pro dospělé a seniory nabízíme v naší partnerské organizaci [VIGVAM, z.ú.](https://www.vigvam-db.cz/)
 
@@ -23,7 +25,7 @@ Ve 2. patře má Centrum Břežánek cvičební sál, kde probíhají sportovní
 Pro naše aktivity využíváme také další prostory [Kulturního centra](http://ric-dolnibrezany.cz/), sportovní halu při ZŠ Dolní Břežany, tělocvičnu a sál školy da Vinci v Dolních Břežanech.\
 Než k nám půjdete, nezapomeňte si přečíst náš [Provozní řád](https://brezanek.webooker.eu/HtmlContent?contentType=0).
 
-![](assets/media-o-nas/telocvicna_ric.jpg)
+![]()
 
 #### Výroční zprávy
 

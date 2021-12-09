@@ -7,4 +7,4 @@ weight: 2
 ---
 [](https://brezanek.webooker.eu/Courses/Register/126474?returnUrl=Courses&tabName=detail)
 
-![](/assets/media/zapisy_2_pol_22.jpg)
+![](/assets/media/zapisy_2_pol_22-1-.jpg)

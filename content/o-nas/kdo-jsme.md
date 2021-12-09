@@ -6,26 +6,28 @@ weight: 1002000
 obrazek: ""
 soubory: /assets/media-o-nas/vz_brezanek_2020.pdf
 ---
+Jsme nezisková organizace a naším posláním je váš volný čas. Už od roku 2008 otevítáme pro děti každý rok desítky sportovních, uměleckých i vzdělávacích kurzů. Pro celé rodiny pořdáme spoustu tématických akcí a workshopů. V krásném prostředí Dolních Břežan si s námi můžete užít nejedno skvělé odpoledne.
+
 ![](/assets/media-o-nas/brezanek_foto.jpg)
 
-Jsme volnočasové centrum pro děti v Dolních Břežanech. U nás si užije celá rodina. Chcete trávit příjemný čas se svými dětmi, dopřát svým dětem zajímavý kurz nebo si společně užít nějakou společnou akci?\
-Spolupracujeme s organizacemi [TOM TALENT](https://tomtalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) , od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) a v roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). Aktivity pro dospělé a seniory nabízíme v naší partnerské organizaci [VIGVAM, z.ú.](https://www.vigvam-db.cz/)
+**Přijďte se k nám podívat**\
+Najdete nás v  zrekonstruované budově Kulturního a informačního centra v Dolních Břežanech.\
+Na recepci v 1.patře vám rádi odpovíme na dotazy, poradíme, vysvětlíme. \
+V prostorách centra máme moderně vybavený cvičební sál, zázemí pro dětskou skupinu i klubovnu pro volnočasové aktivity.\
+Sportovní kurzy probíhají také v nedaleké sportovní hale při ZŠ Dolní Břežany, v tělocvičně školy DaVinci, v sálu ZUŠ Harmony a v tělocvičně ZŠ Zvole.\
+O kvalitní rovoz  se stará celý náš tým.\
+Vysoká úroveň  kurzů je  v rukou našich nejlepších trenérů a  lektorů.
 
-Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.\
-O bezproblémový chod Centra Břežánek se stará stabilní tým, naší snahou je nabízet kvalitní služby a přinášet inovativní nápady.\
-Centrum Břežánek je vždy plné dětí, rodičů, nových nápadů a smíchu :)\
+Spolupracujeme s organizacemi [TOM TALENT](https://tomtalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) \
+Od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrezansko.cz/) \
+V roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). \
+Aktivity pro dospělé a seniory nabízíme v naší partnerské organizaci [VIGVAM, z.ú.](https://www.vigvam-db.cz/)
+
+Centrum Břežánek je vždy plné dětí, rodičů, nových nápadů a smíchu :) A protože pořádek dělá přátele, máme i my [Provozní řád](https://brezanek.webooker.eu/HtmlContent?contentType=0).\
 Přijďte se k nám podívat.\
 Tým Centra Břežánek
 
-#### Prostory Centra Břežánek, z.ú
-
-Od září 2019 nás naleznete v nově zrekonstruované budově [Kulturního informačního centra v Dolních Břežanech](kontakty/).\
-V 1. patře naleznete recepci, kde získáte informace o kurzech a akcích. Zde jsou umístěny také prostory pro Dětskou skupinu Břežánek a prostory pro volnočasové kurzy.\
-Ve 2. patře má Centrum Břežánek cvičební sál, kde probíhají sportovní kurzy. Sál je vybaven dřevěnou podlahou, zrcadlovou stěnou a různými sportovními pomůckami.\
-Pro naše aktivity využíváme také další prostory [Kulturního centra](http://ric-dolnibrezany.cz/), sportovní halu při ZŠ Dolní Břežany, tělocvičnu a sál školy da Vinci v Dolních Břežanech.\
-Než k nám půjdete, nezapomeňte si přečíst náš [Provozní řád](https://brezanek.webooker.eu/HtmlContent?contentType=0).
-
-![]()
+Jsme nezisková organizace, jejíž provoz je částečně zajištěn z prostředků získaných z dotací a sponzorských darů.
 
 #### Výroční zprávy
 

@@ -15,7 +15,7 @@ Najdete nás v  zrekonstruované budově Kulturního a informačního centra v D
 Na recepci v 1.patře vám rádi odpovíme na dotazy, poradíme, vysvětlíme. \
 V prostorách centra máme moderně vybavený cvičební sál, zázemí pro dětskou skupinu i klubovnu pro volnočasové aktivity.\
 Sportovní kurzy probíhají také v nedaleké sportovní hale při ZŠ Dolní Břežany, v tělocvičně školy DaVinci, v sálu ZUŠ Harmony a v tělocvičně ZŠ Zvole.\
-O kvalitní rovoz  se stará celý náš tým.\
+O kvalitní provoz  se stará celý náš tým.\
 Vysoká úroveň  kurzů je  v rukou našich nejlepších trenérů a  lektorů.
 
 Spolupracujeme s organizacemi [TOM TALENT](https://tomtalent.cz/), [SC NEXTYLE](http://www.scnextyle.cz/), [KIDDŮM](http://www.kiddum.cz/), [Divadélko Kůzle](http://www.divadelkokuzle.cz/). Od roku 2008 jsme členy [Sítě pro rodinu](http://www.materska-centra.cz/) \

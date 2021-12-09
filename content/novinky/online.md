@@ -4,7 +4,7 @@ linktitle: predskolaci
 draft: false
 obrazek: ""
 soubory: ""
-weight: 2
+weight: 3
 ---
 Skvělá zpráva! Od února 2022 nabídneme nový kurz Předškolák,  pro děti od pěti let. 
 

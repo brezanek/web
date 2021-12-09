@@ -1,7 +1,7 @@
 ---
 title: Podzimní parkour kemp
 linktitle: podzimni-prazdniny
-draft: false
+draft: true
 obrazek: ""
 weight: 2
 ---

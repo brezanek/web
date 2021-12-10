@@ -11,9 +11,9 @@ Jsme nezisková organizace a naším posláním je váš volný čas. Už od rok
 ![](/assets/media-o-nas/brezanek_foto.jpg)
 
 **Přijďte se k nám podívat**\
-Najdete nás v  zrekonstruované budově Kulturního a informačního centra v Dolních Břežanech.\
+Najdete nás v  zrekonstruované budově [Kulturního a informačního centra](https://www.ric-dolnibrezany.cz/) v Dolních Břežanech.\
 Na recepci v 1.patře vám rádi odpovíme na dotazy, poradíme, vysvětlíme. \
-V prostorách centra máme moderně vybavený cvičební sál, zázemí pro dětskou skupinu i klubovnu pro volnočasové aktivity.\
+V prostorách centra máme moderně vybavený cvičební sál, zázemí pro [dětskou skupinu](https://www.brezanek.cz/miniskolka/) i klubovnu pro [volnočasové aktivity](https://brezanek.webooker.eu).\
 Sportovní kurzy probíhají také v nedaleké sportovní hale při ZŠ Dolní Břežany, v tělocvičně školy DaVinci, v sálu ZUŠ Harmony v Dolních Břežanech  a v tělocvičně ZŠ Zvole u Prahy.\
 O kvalitní provoz  se stará celý náš tým.\
 Vysoká úroveň  kurzů je  v rukou našich nejlepších [trenérů a  lektorů.](https://www.instagram.com/centrum_brezanek/)
@@ -24,7 +24,8 @@ Od roku 2013 jsme partnery [MAS Dolnobřežansko o.p.s](http://www.mas-dolnobrez
 V roce 2019 jsme se stali členy [Unie center pro rodinu a komunitu](https://www.uniecenter.cz/). \
 Aktivity pro dospělé a seniory nabízíme v naší partnerské organizaci [VIGVAM, z.ú.](https://www.vigvam-db.cz/)
 
-Centrum Břežánek je vždy plné dětí, rodičů, nových nápadů a smíchu :) A protože pořádek dělá přátele, máme i my [Provozní řád](https://brezanek.webooker.eu/HtmlContent?contentType=0).\
+Centrum Břežánek je vždy plné dětí, rodičů, nových nápadů a smíchu :) \
+A protože pořádek dělá přátele, máme i my [Provozní řád](https://brezanek.webooker.eu/HtmlContent?contentType=0).\
 Přijďte se k nám podívat.\
 Tým Centra Břežánek
 

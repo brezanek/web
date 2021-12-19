@@ -1,7 +1,7 @@
 ---
-title: Vítejte!
-linktitle: vitejte
+title: Krásné Vánoce
+linktitle: vánoce
 draft: false
 weight: 1
 ---
-![](/assets/media/baner_motto.jpg)
+![](/assets/media/pf_2022_brezanek.jpg)

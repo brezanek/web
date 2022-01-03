@@ -3,7 +3,7 @@ title: Příměstské kempy ROBOTIKA
 linktitle: robotika
 draft: false
 obrazek: ""
-weight: 3
+weight: 4
 ---
 18-22/07/2022 Dino-robotický týden, [registrujte se již nyní](<registrujte se již nyní>)
 

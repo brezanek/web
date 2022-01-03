@@ -3,9 +3,8 @@ title: Z pohádky do pohádky
 linktitle: z-pohadky-do-pohadky
 draft: true
 obrazek: ""
-weight: 1001500
+weight: 4
 ---
-
 **Co bude náplní kempu?**
 
 * prohloubení zájmu dětí o knihy
@@ -15,10 +14,13 @@ weight: 1001500
 * rozpoznáme dobro a zlo v pohadkách
 * zaměříme se na rozvoj jemné i hrubé motoriky
 
-Celý týden bude děti provázet maňásek, který je bude přenášen z pohádky do pohádky:-)  
+Celý týden bude děti provázet maňásek, který je bude přenášen z pohádky do pohádky:-)\
 Lektorka: [Katka Váchalová](https://brezanek.webooker.eu/Courses/Register/124226?returnUrl=Courses&tabName=detail)
 
-[Registrace](https://brezanek.webooker.eu/Actions/Register/124677?returnUrl=Actions&tabName=detail)
+Termíny: \
+11.-.15.7. 2022\
+srpnový termín brzy zveřejníme
 
-![](/assets/media/leto_kemp.jpg)
+[Registrace](https://brezanek.webooker.eu/)
 
+![](/assets/media/pohadka_kemp.jpg)

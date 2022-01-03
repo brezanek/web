@@ -18,9 +18,7 @@ Celý týden bude děti provázet maňásek, který je bude přenášen z pohád
 Lektorka: [Katka Váchalová](https://brezanek.webooker.eu/Courses/Register/124226?returnUrl=Courses&tabName=detail)
 
 Termíny: \
-11.-.15.7. 2022\
-srpnový termín brzy zveřejníme
-
-[Registrace](https://brezanek.webooker.eu/)
+11.-.15.7. 2022 a 1.-.5.8.2022[\
+Registrace](https://brezanek.webooker.eu/)
 
 ![](/assets/media/pohadka_kemp.jpg)

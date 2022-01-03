@@ -1,7 +1,7 @@
 ---
 title: Z pohádky do pohádky
 linktitle: z-pohadky-do-pohadky
-draft: true
+draft: false
 obrazek: ""
 weight: 4
 ---

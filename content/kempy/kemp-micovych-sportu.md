@@ -6,4 +6,4 @@ obrazek: null
 soubory: ""
 weight: 2
 ---
-![](/assets/media/letni_kempy_22.jpg)
+![](/assets/media/letni_kempy_22-1-.jpg)

@@ -4,8 +4,6 @@ linktitle: kempy 2022
 draft: false
 obrazek: null
 soubory: ""
-weight: 10000
+weight: 2
 ---
-
-
-![](/assets/media/kopie-navrhu-akce_22.jpg)
+![](/assets/media/letni_kempy_22.jpg)

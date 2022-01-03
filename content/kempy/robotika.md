@@ -1,12 +1,14 @@
 ---
 title: Příměstské kempy ROBOTIKA
 linktitle: robotika
-draft: true
+draft: false
 obrazek: ""
 weight: 3
 ---
-Podzimky s  ROBOTIKOU. [](https://kiddum.webooker.eu/Courses/Register/102479?returnUrl=Courses&tabName=detail)Registrace [ZDE](https://kiddum.webooker.eu/Courses/Register/106839?returnUrl=Courses&tabName=detail).\
+18-22/07/2022 Dino-robotický týden, [registrujte se již nyní](<registrujte se již nyní>)
+22-26/08/2022 Space Challenge, [registrujte se již nyn](https://kiddum.webooker.eu/Courses/Register/108663?returnUrl=Courses&tabName=detail)í
+
 Kemp bude probíhat v klubovně Infocentra v Dolních Břežanech.\
 Na děti se už těšíme!
 
-![](/assets/media/kopie-navrhu-kempy_robotika.jpg)
+![](/assets/media/kempy_robotika-1-.jpg)

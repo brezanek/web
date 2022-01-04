@@ -22,4 +22,4 @@ Nevíte si rady? Máme pro vás **odpovědi** , jak se v rezervačním systému 
 \
 Rádi Vám připravíme [dárkový poukaz](https://brezanek.webooker.eu/Courses?semesterID=10633) na kurzy, případně jiné akce pořádané Centrem Břežánek
 
-![](/assets/media/organizace_roku.jpg)
+![](/assets/media/organizace_roku-1-.jpg)

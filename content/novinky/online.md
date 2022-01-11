@@ -1,13 +1,13 @@
 ---
-title: Nový kurz v roce 2022
-linktitle: predskolaci
+title: Nové kurzy v roce 2022
+linktitle: nove_kurzy
 draft: false
 obrazek: ""
 soubory: ""
 weight: 3
 ---
-Skvělá zpráva! Od února 2022 nabídneme nový kurz Předškolák,  pro děti od pěti let. 
-
-Registrace do kurzu budu spuštěna během ledna.  
+Skvělá zpráva! Od února 2022 nabízíme  nový kurz [Předškolák](https://brezanek.webooker.eu/),  pro děti od pěti let a kurz [Robotiky](https://brezanek.webooker.eu/) v ZŠ Zvole.
 
 ![](/assets/media/baner_predskolak.jpg)
+
+![](/assets/media/robotika_zvole.jpg)

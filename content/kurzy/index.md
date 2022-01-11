@@ -9,9 +9,9 @@ soubory: /assets/media-o-nas/rozvrh_21-22.pdf
 ![](/assets/media/kurzy_baner.jpg)
 
 Nabízíme širokou škálu [kurzů](https://brezanek.webooker.eu/Courses?semesterID=10483) pro rodiče s dětmi do 3 let až po děti školního věku.\
-[Rozvrh na 2.pololetí školního roku 2021/22.](https://www.brezanek.cz/assets/media-o-nas/rozvrh_21-22_ii_pol.pdf)
+[](https://www.brezanek.cz/assets/media-o-nas/rozvrh_21-22_ii_pol.pdf)Kurzy pro II. pololetí naleznete v [rezervačním systému](https://brezanek.webooker.eu/).
 
-V letošním školním  roce jsme pro rodiče s malými dětmi připravili hernu ve Zvoli a u nás v Dolních Břežanech nové skvělé, dopolední kurzy.
+Herna ve Zvoli pokrčuje i v II. pololetí a  u nás v Dolních Břežanech jsme pro vás přidali kurz Předškolák a kurz Myšky ve dvou nových časech.
 
 ![](/assets/media/baner_herna.jpg)
 

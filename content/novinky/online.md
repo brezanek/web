@@ -6,7 +6,7 @@ obrazek: ""
 soubory: ""
 weight: 3
 ---
-Skvělá zpráva! Od února 2022 nabízíme  nový kurz [Předškolák](https://brezanek.webooker.eu/),  pro děti od pěti let a kurz [Robotiky](https://brezanek.webooker.eu/) v ZŠ Zvole.
+Skvělá zpráva! Od února 2022 nabízíme  nový kurz [Předškolák](https://brezanek.webooker.eu/),  pro děti od pěti let a kurz [Robotiky](https://brezanek.webooker.eu/) v ZŠ Zvole. Kurz Myšky nabízíme ve dvou nových časech.
 
 ![](/assets/media/baner_predskolak.jpg)
 

@@ -1,11 +1,10 @@
 ---
-title: Krásné léto
-linktitle: leto
-draft: true
+title: Registrace na letní kempy
+linktitle: kempy
+draft: false
 obrazek: ""
 weight: 3
 ---
+Léto je ještě daleko, ale [registrace](https://brezanek.webooker.eu/) na[ letní kempy](https://www.brezanek.cz/kempy/) je již v plném proudu:-)
 
-Milí klienti,  
-připravili jsme pro vás novinku v podobě **Dárkového poukazu** na kurzy [Centra Břežánek](https://brezanek.webooker.eu/Courses?semesterID=10633) nebo [VIGVAMu](https://vigvam.webooker.eu/Courses?semesterID=10634). Dárkový poukaz v různých hodnotách můžete zakoupit pomocí Rezervačního systému.  
-Dárkovým poukazem jistě uděláte radost:-)
+![](/assets/media/letni_kempy_22-1-.jpg)

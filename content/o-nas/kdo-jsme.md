@@ -6,7 +6,9 @@ weight: 1002000
 obrazek: ""
 soubory: /assets/media-o-nas/vz_brezanek_2020.pdf
 ---
-Jsme nezisková organizace a naším posláním je váš volný čas. Už od roku 2008 otevíráme pro děti každý rok desítky **sportovních**, **uměleckých** i **vzdělávacích** [kurzů](https://brezanek.webooker.eu/). Pro celé rodiny pořdáme spoustu tématických [akcí a workshopů](https://www.brezanek.cz/akce/). V krásném prostředí Dolních Břežan si s námi můžete užít nejedno skvělé odpoledne.
+* **každoročně otevíráme desítky sportovních kurzů a uměleckých kroužků pro děti**
+* **pořádáme tematické akce pro celé rodiny**
+* **organizujeme výstavy a workshopy**
 
 ![](/assets/media-o-nas/brezanek_foto.jpg)
 

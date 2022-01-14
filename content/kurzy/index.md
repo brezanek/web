@@ -18,7 +18,7 @@ Baví vaše dítě týmové hry nebo z něj roste Karate Kid? V naší nabídce 
 ![](/assets/media/2.jpg)
 
 Ožívá vaše dítě za zvuku hudby? Pak by se mu mohlo líbit v některém z [tanečních kurzů](https://brezanek.webooker.eu/Courses?semesterID=10787).
-Nabízíme přípravu pro budoucí baleríny, dynamický Street Dance a příznivci akce si přijdou na své v hodinách Break Dance
+Nabízíme přípravu pro budoucí baleríny, dynamický Street Dance a příznivci akce si přijdou na své v hodinách Break Dance.
 
 ![](/assets/media/3.jpg)
 
@@ -35,7 +35,7 @@ Na angličtinu dřív,než do školky? Proč ne. Kurzy angličtiny už od 3 let.
 
 ![](/assets/media/baner_herna.jpg)
 
-Herna ve Zvoli pokrčuje i v II. pololetí a  u nás v Dolních Břežanech jsme pro vás přidali kurz Předškolák a kurz Myšky ve dvou nových časech.
+Herna ve Zvoli pokrčuje i v II. pololetí. Přijďte s dětmi strávit parádní dopoledne.
 
 ![](/assets/media/organizace_roku-1-.jpg)
 

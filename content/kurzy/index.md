@@ -24,4 +24,8 @@ Rádi Vám připravíme [dárkový poukaz](https://brezanek.webooker.eu/Courses?
 
 ![](/assets/media/organizace_roku-1-.jpg)
 
+
+
 ![](/assets/media/banery_kurzy.jpg)
+
+Baví vaše dítě týmové hry nebo z něj roste Karate Kid? V naší nabídce sportovních kurzů máme aktivitu pro každého. Od nejmenších až po teenagery. Prohlédněte si [aktuální nabídku](https://brezanek.webooker.eu/).

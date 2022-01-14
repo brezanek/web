@@ -5,4 +5,4 @@ draft: false
 obrazek: ""
 weight: 1007000
 ---
-![](/assets/media/dd_baner-1-.jpg)
+![](/assets/media/dd_baner_small.jpg)

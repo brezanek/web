@@ -19,7 +19,7 @@ miniškoličce. Chci vědět víc.
 
 ![](/assets/media/ds3.jpg)
 
-zašlete nám vyplněnou [přihlášku](https://brezanek.webooker.eu/Activities) nebo napište si o setkání na brezanek@brezanek.cz
+Zašlete nám vyplněnou [přihlášku](https://brezanek.webooker.eu/Activities) nebo napište si o setkání na brezanek@brezanek.cz
 Máte na nás ještě nějakou otázku?
 Zeptejte se e-mailem miniskolka@brezanek.cz
 

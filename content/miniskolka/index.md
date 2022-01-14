@@ -4,13 +4,14 @@ linktitle: miniskolka
 draft: false
 weight: 1005000
 obrazek: ""
+soubory: /assets/media-o-nas/ds_web_-text_2022_aktual.pdf
 ---
 ![](/assets/media/ds1.jpg)
 
 Šéf už vás netrpělivě vyhlíží?
 Potřebujete čas na své podnikání, chystáte změnit kariéru nebo vás čeká rekvalifikační kurz?
 **Věnujte se povinnostem s klidnou hlavou.** O pohodlí vašeho dítěte se postaráme v naší
-miniškoličce. Chci vědět víc.
+miniškoličce. Chci vědět [víc](/assets/media-o-nas/ds_web_-text_2022_aktual.pdf).
 
 ![](/assets/media/ds2.jpg)
 

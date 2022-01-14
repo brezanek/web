@@ -4,7 +4,7 @@ linktitle: miniskolka
 draft: false
 weight: 1005000
 obrazek: ""
-soubory: /assets/media-o-nas/ds_web_-text_2022_aktual.pdf
+soubory: /assets/media-o-nas/kriteria_prijeti_DS.pdf
 ---
 ![](/assets/media/ds1.jpg)
 
@@ -16,7 +16,7 @@ miniškoličce. Chci vědět [víc](/assets/media-o-nas/ds_web_-text_2022_aktual
 ![](/assets/media/ds2.jpg)
 
 ...hledáte pro své dítě prostředí, ve kterém  se bude přirozeně rozvíjet
-...splníte podmínky pro přijetí. Jaké to jsou?
+...splníte podmínky pro přijetí. [Jaké to jsou?](/assets/media-o-nas/kriteria_prijeti_DS.pd)
 
 ![](/assets/media/ds3.jpg)
 

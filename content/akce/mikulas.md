@@ -5,4 +5,4 @@ draft: false
 obrazek: ""
 weight: 2
 ---
-![](/assets/media/akce_22-1-.jpg)
+![](/assets/media/akce_22-2-.jpg)

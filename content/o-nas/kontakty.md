@@ -18,13 +18,13 @@ Kde nás najdete: [otevřít mapu](https://mapy.cz/s/cofacasabe)
 
 #### Kontakty
 
-**Recepce** (aktuální provozní informace)\
+**Recepce** 15-18h \
 tel.: 773 619 138 ( pouze v době otevření recepce)\
 e-mail: brezanek@brezanek.cz\
-**Miniškolka** (omluvy z Miniškolky pouze přes online system)\
+**Miniškolka** 8-16h\
 tel.: 773 619 138 ( pouze 8-16h)\
 miniskolka@brezanek.cz\
-**Kurzy** ( informace o nabízených aktivitách, platby, rezervace)\
+**Kurzy** 9-15h\
 Martina Vilhumová tel.: 773 619 100\
 e-mail: brezanek@brezanek.cz
 
@@ -34,17 +34,17 @@ e-mail: brezanek@brezanek.cz
 #### Náš tým
 
 **Monika Žáková,** výkonná ředitelka\
-tel.: 773 619 139 (po-pá 8:30 - 18:00)\
+tel.: 773 619 139 \
 e-mail: brezanek@brezanek.cz\
 \
 **Martina Vilhumová,** výkonný tým- kurzy, miniškolka\
-tel.: 773 619 100 (po-pá 8:30 - 18:00)\
+tel.: 773 619 100 \
 e-mail:miniskolka@brezanek.cz  
 
 **Bc. Barbara Grossová,** výkonný tým - finance\
 \
 **Zuzana Rosecká**, pečovatelka v Dětské skupině\
-tel.: 773 619 138 (po-pá 8:30 - 16:00)\
+tel.: 773 619 138 \
 \
 **Personální obsazení recepce:**\
 Martina Vilhumová, Monika Žáková, Renata Hanzlová, Zuzana Rosecká

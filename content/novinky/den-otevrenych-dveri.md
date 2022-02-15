@@ -7,4 +7,4 @@ weight: 1
 ---
 **Nezapomínejte** na sebe, v naší druhé organizaci[ VIGVAM](https://www.vigvam-db.cz/) nabízíme skvělé aktivity pro dospělé.
 
-![](/assets/media/vigvam_dosp-1-.jpg)
+![](/assets/media/vigvam_dosp-2-.jpg)

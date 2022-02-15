@@ -1,10 +1,10 @@
 ---
-title: Nejbližší akce
-linktitle: akce
-draft: true
+title: Nabídka VIGVAMu
+linktitle: vigvam
+draft: false
 obrazek: ""
-weight: 3
+weight: 1
 ---
-**Nezapoměňte** sledovat, co pro vás a vaše děti připravujeme za **[AKCE](https://www.brezanek.cz/akce/)**.\
-\
-[](https://www.brezanek.cz/kempy/)**22. listopadu** si k nám můžete přijít vyrobit [adventní věnec](https://www.brezanek.cz/akce/).
+**Nezapomínejte** na sebe, v naší druhé organizaci[ VIGVAM](https://www.vigvam-db.cz/) nabízíme skvělé aktivity pro dospělé.
+
+![](/assets/media/vigvam_dosp-1-.jpg)

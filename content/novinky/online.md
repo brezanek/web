@@ -8,4 +8,4 @@ weight: 1
 ---
 ![](/assets/media/ptacata_baner.jpg)
 
-![](/assets/media/anglictina-72-24-in-.jpg)
+![](/assets/media/anglictina-72-24-in-1-.jpg)

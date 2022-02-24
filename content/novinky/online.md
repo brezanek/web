@@ -1,5 +1,5 @@
 ---
-title: Další kurz Ptáčata
+title: Ptáčata
 linktitle: ptacata
 draft: false
 obrazek: ""

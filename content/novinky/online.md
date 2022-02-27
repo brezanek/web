@@ -6,7 +6,8 @@ obrazek: ""
 soubory: ""
 weight: 1
 ---
-Na nové kurzy se zapište v našem [rezervačním systému](https://brezanek.webooker.eu/). Nevíte si rady? [Napište nám](https://www.brezanek.cz/o-nas/kontakty/), rádi vám poradíme.
+Na nové kurzy se zapište v našem [rezervačním systému](https://brezanek.webooker.eu/). \
+Nevíte si rady? [Napište nám](https://www.brezanek.cz/o-nas/kontakty/), rádi vám poradíme.
 
 ![](/assets/media/logohratky-72-24-in-.jpg)
 

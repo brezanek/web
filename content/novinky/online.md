@@ -4,7 +4,7 @@ linktitle: novinky
 draft: false
 obrazek: ""
 soubory: ""
-weight: 1
+weight: 2
 ---
 Na nové kurzy se zapište v našem [rezervačním systému](https://brezanek.webooker.eu/). \
 Nevíte si rady? [Napište nám](https://www.brezanek.cz/o-nas/kontakty/), rádi vám poradíme.

@@ -1,7 +1,7 @@
 ---
 title: Sbírka pro Ukrajinu
 linktitle: sbirka
-draft: true
+draft: false
 weight: 1
 ---
 

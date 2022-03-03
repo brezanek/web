@@ -3,7 +3,7 @@ title: Registrace na letní kempy
 linktitle: kempy
 draft: false
 obrazek: ""
-weight: 3
+weight: 5
 ---
 Léto je ještě daleko, ale [registrace](https://brezanek.webooker.eu/) na[ letní kempy](https://www.brezanek.cz/kempy/) je již v plném proudu:-)
 

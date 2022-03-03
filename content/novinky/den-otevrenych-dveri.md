@@ -3,7 +3,7 @@ title: Nabídka VIGVAMu
 linktitle: vigvam
 draft: false
 obrazek: ""
-weight: 1
+weight: 4
 ---
 **Nezapomínejte** na sebe, v naší druhé organizaci[ VIGVAM](https://www.vigvam-db.cz/) nabízíme skvělé aktivity pro dospělé.
 

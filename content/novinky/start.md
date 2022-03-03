@@ -1,7 +1,7 @@
 ---
 title: Herna pro děti s rodiči
 linktitle: herna_zvole
-draft: false
+draft: true
 obrazek: ""
 weight: 8
 ---

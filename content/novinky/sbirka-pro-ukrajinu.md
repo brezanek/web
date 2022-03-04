@@ -5,4 +5,4 @@ draft: false
 obrazek: ""
 weight: 1
 ---
-![](/assets/media/ukrajina_pomoc-3-.jpg)
+![](/assets/media/ukrajina_pomoc.png)

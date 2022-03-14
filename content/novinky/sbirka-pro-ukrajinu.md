@@ -1,6 +1,6 @@
 ---
-title: Sbírka pro Ukrajinu
-linktitle: sbirka
+title: Pomoc uprchlíkům v Dolních Břežnech
+linktitle: pomoc
 draft: false
 obrazek: ""
 weight: 1

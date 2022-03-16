@@ -12,3 +12,5 @@ Další důležite informace naleznete na [webových stránkách obce Dolní Bř
 ![](/assets/media/nabidka-2-.jpg)
 
 ![](/assets/media/poptavka.jpg)
+
+![](/assets/media/banery_ukrajina.png)

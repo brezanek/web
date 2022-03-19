@@ -9,7 +9,7 @@ weight: 1
 
 Další důležite informace naleznete na [webových stránkách obce Dolní Břežany](https://dolnibrezany.cz/pomoc%2Dukrajine/d-19172).
 
-![](/assets/media/banery_ukrajina-1-.jpg)
+![](/assets/media/banery_ukrajina-3-.jpg)
 
 ![](/assets/media/banery_ukrajina-2-.jpg)
 

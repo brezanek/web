@@ -5,7 +5,7 @@ draft: false
 obrazek: ""
 weight: 3
 ---
-![](/assets/media/banery_ukrajina-6-.jpg)
+![](/assets/media/banery_ukrajina-8-.jpg)
 
 ![](/assets/media/banery_ukrajina-5-.jpg)
 

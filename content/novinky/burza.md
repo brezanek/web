@@ -5,6 +5,6 @@ draft: false
 obrazek: ""
 weight: 1
 ---
-**Nezapomeňte, již v úterý 12.4. od 16 hodin !**
+**Nezapomeňte, již v úterý 12.4. od 16 hodin! Vstupné ZDARMA.**
 
 ![](/assets/media/velikonocni_tajemstvi-1-.jpg)

@@ -4,7 +4,7 @@ linktitle: kouzelník
 draft: false
 obrazek: ""
 soubory: ""
-weight: 4
+weight: 3
 ---
 Naše partnerská organizace [VIGVAM](https://www.vigvam-db.cz/) za podpory MAS Dolnobřežansko připravila pro děti i dospělé akci Kouzelné odpoledne. Nenechte si to ujít:-)
 

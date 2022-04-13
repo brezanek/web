@@ -1,8 +1,8 @@
 ---
-title: Herna pro děti s rodiči
-linktitle: herna_zvole
+title: Den dětí
+linktitle: den dětí
 draft: true
 obrazek: ""
-weight: 8
+weight: 3
 ---
-![](/assets/media/baner_herna.jpg)
+![](/assets/media/dd_baner_small.jpg)

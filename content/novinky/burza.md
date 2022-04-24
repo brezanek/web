@@ -1,7 +1,7 @@
 ---
 title: Veselé Velikonoce
 linktitle: velikonoce
-draft: false
+draft: true
 obrazek: ""
 weight: 1
 ---

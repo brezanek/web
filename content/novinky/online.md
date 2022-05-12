@@ -1,11 +1,11 @@
 ---
-title: Kouzelné odpoledne pro děti i dospělé
-linktitle: kouzelník
+title: Zápisy na školní rok 2022/23
+linktitle: zapisy
 draft: false
 obrazek: ""
 soubory: ""
 weight: 3
 ---
-Naše partnerská organizace [VIGVAM](https://www.vigvam-db.cz/) za podpory MAS Dolnobřežansko připravila pro děti i dospělé akci Kouzelné odpoledne. Nenechte si to ujít:-)
 
-![](/assets/media/banery_brez.jpg)
+
+![](/assets/media/zapisy_22_23-72-24-in-14-3-cm-.jpg)

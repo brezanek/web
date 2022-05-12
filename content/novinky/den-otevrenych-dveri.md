@@ -1,7 +1,7 @@
 ---
 title: Nabídka VIGVAMu
 linktitle: vigvam
-draft: false
+draft: true
 obrazek: ""
 weight: 5
 ---

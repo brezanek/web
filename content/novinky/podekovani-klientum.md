@@ -1,14 +1,10 @@
 ---
-title: Poděkování
-linktitle: podekovani-klientum
-draft: true
-obrazek: /assets/media/brezanek_bezpozadi - kopie.png
+title: Malován na obličej
+linktitle: malovaní_oblicej
+draft: false
+obrazek: ""
 weight: 1013000
 ---
+Objednání termínů naleznete již brzy [ZDE](https://brezanek.webooker.eu/Actions)
 
-Centrum Břežánek děkuje všem našim milým klientům, kteří nám věnovali kurzovné z krizového období koronavirové epidemie. Díky darům se nám podařilo velmi náročné období zvládnout. Již se moc těšíme na začátek školního roku, kdy se s Vámi- našimi klienty- opět potkáme.  
-Darované finanční prostředky promítneme do kvality našich kurzů pro děti, což je pro nás prioritou číslo jedna. Dovybavíme tělocvičnu švédskou bednou, která nám dlouho chyběla. Pořídíme potřeby pro kreativní kurzy nebo pomůcky na gymnastiku. Na naše akce zakoupíme stan. Samozřejmě jsme nezapomněli odměnit naše lektory, kteří své svěřence jakkoli podporovali.   
-Celková částka daru činí 44 245,- Kč.
-
-Děkujeme, velmi si vážíme vaší pomoci  
-Tým Centra Břežánek
+![](/assets/media/zapisy_22_23-72-24-in-14-3-cm-1-.jpg)

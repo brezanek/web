@@ -3,7 +3,7 @@ title: Malován na obličej
 linktitle: malovaní_oblicej
 draft: false
 obrazek: ""
-weight: 1013000
+weight: 3
 ---
 Objednání termínů naleznete již brzy [ZDE](https://brezanek.webooker.eu/Actions)
 

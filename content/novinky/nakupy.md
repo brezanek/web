@@ -1,8 +1,8 @@
 ---
-title: Přidejte se k nám
+title: Hledáme lektora
 linktitle: hledame
 draft: true
 obrazek: ""
-weight: 1004000
+weight: 1
 ---
-![](/assets/media/inzerat-1-.jpg)
+![](/assets/media/inzerat-3-.jpg)

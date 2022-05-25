@@ -1,5 +1,5 @@
 ---
-title: Hledáme lektora
+title: Hledáme lektorku
 linktitle: hledame
 draft: true
 obrazek: ""

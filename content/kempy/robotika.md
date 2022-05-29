@@ -5,7 +5,7 @@ draft: false
 obrazek: ""
 weight: 5
 ---
-**Nově přidáváme termín 1. 8. - 5. 8. 2022.**\
+**Nově přidáváme termín 1. 8. - 5. 8. 2022, registrace [ZDE](https://kiddum.webooker.eu/Courses/Register/121432?returnUrl=Courses&tabName=detail)**\
 \
 18-22/07/2022 Dino-robotický týden, [registrujte se již nyní](https://kiddum.webooker.eu/Courses/Register/108691?returnUrl=Courses&tabName=detail)
 

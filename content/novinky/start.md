@@ -1,7 +1,7 @@
 ---
 title: Den dětí
 linktitle: den dětí
-draft: false
+draft: true
 obrazek: ""
 weight: 1
 ---

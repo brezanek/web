@@ -1,7 +1,7 @@
 ---
 title: Hledáme lektorku
 linktitle: hledame
-draft: false
+draft: true
 obrazek: ""
 weight: 1
 ---

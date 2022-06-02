@@ -16,12 +16,13 @@ miniškoličce. Chci vědět [víc](/assets/media-o-nas/ds_web_-text_2022_aktual
 ![](/assets/media/ds2.jpg)
 
 ...hledáte pro své dítě prostředí, ve kterém  se bude přirozeně rozvíjet
-...splníte podmínky pro přijetí. [Jaké to jsou?](/assets/media-o-nas/kriteria_prijeti_DS.pd)
+...splníte podmínky pro přijetí. [](/assets/media-o-nas/kriteria_prijeti_DS.pd)
 
 ![](/assets/media/ds3.jpg)
 
-Zašlete nám vyplněnou [přihlášku](https://brezanek.webooker.eu/Activities) nebo napište si o setkání na brezanek@brezanek.cz
-Máte na nás ještě nějakou otázku?
+Je nám to líto, ale pro školní rok 2022/23 máme již obsazeno. \
+Na školní rok 2023/24 bude možné zapsat od října 2022.
+Máte na nás  nějakou otázku?
 Zeptejte se e-mailem miniskolka@brezanek.cz
 
 ![](/assets/media/ds4.jpg)
@@ -34,8 +35,6 @@ O letních prázdninách Dětská skupina bude otevřena v předem avizovaných 
 **Dokumenty k dětské skupině** :\
 [Plán výchovy a péče Miniškolky Břežánek v režimu Dětské skupiny](/assets/media-o-nas/PVP_2020.pdf)\
 Provozní řád, Smlouva s rodiči, Přihláška do Dětské skupiny, Adaptační plán, Etický kodex - po dohodě poskytneme k nahlédnutí
-
-
 
 ![](/assets/media/eu.jpg)
 

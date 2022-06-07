@@ -1,7 +1,7 @@
 ---
 title: Pomoc uprchlíkům v Dolních Břežnech
 linktitle: pomoc
-draft: false
+draft: true
 obrazek: ""
 weight: 6
 ---

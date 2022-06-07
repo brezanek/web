@@ -39,4 +39,4 @@ Na angličtinu dřív,než do školky? Proč ne. Kurzy angličtiny už od 3 let.
 
 ![](/assets/media/organizace_roku-1-.jpg)
 
-![]()
+![](/assets/media/web_b_banery_-72-24-in-.jpg)

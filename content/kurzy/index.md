@@ -35,7 +35,7 @@ Na angličtinu dřív,než do školky? Proč ne. Kurzy angličtiny už od 3 let.
 
 ![](/assets/media/baner_herna.jpg)
 
-Herna ve Zvoli pokrčuje i v II. pololetí. Přijďte s dětmi strávit parádní dopoledne.
+
 
 ![](/assets/media/organizace_roku-1-.jpg)
 

@@ -10,4 +10,4 @@ Termíny posledních lekcí kurzů naleznete [ZDE](/assets/media-o-nas/b_posl_le
 Naši stávající klienti budou mít možnost se přednostně zapsat do našich kurzů ve školním roce 2022/23. Podrobnosti obdržíte e- mailem.\
 Těšíme se na vás:-)
 
-![](/assets/media/zapisy_22_23-72-24-in-14-3-cm-.jpg)
+![](/assets/media/web_b_banery_-72-24-in-1-.jpg)

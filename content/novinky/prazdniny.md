@@ -1,8 +1,8 @@
 ---
 title: Hurá prázdniny!
 linktitle: prazdniny
-draft: true
+draft: false
 obrazek: ""
-weight: 3
+weight: 1
 ---
 ![](/assets/media/baner_leto.jpg)

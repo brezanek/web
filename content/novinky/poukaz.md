@@ -1,5 +1,5 @@
 ---
-title: Registrace na letní kempy
+title: Letní kempy
 linktitle: kempy
 draft: false
 obrazek: ""

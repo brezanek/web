@@ -37,9 +37,10 @@ e-mail: brezanek@brezanek.cz
 tel.: 773 619 139 \
 e-mail: brezanek@brezanek.cz\
 \
-**Martina Vilhumová,** výkonný tým- kurzy, miniškolka\
-tel.: 773 619 100 \
-e-mail:miniskolka@brezanek.cz  
+**Martina Vilhumová,** výkonný tým- kurzy, provoz kurzů a miniškolka\
+tel.: 773 619 100\
+Kurzy e-mail: brezanek@brezanek.cz\
+Dětská skupina e-mail: miniskolka@brezanek.cz  
 
 **Bc. Barbara Grossová,** výkonný tým - finance\
 \
@@ -47,4 +48,4 @@ e-mail:miniskolka@brezanek.cz
 tel.: 773 619 138 \
 \
 **Personální obsazení recepce:**\
-Martina Vilhumová, Monika Žáková, Renata Hanzlová, Zuzana Rosecká
+Martina Vilhumová, Monika Žáková, Renáta Hanzlová, Zuzana Rosecká

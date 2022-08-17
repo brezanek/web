@@ -3,7 +3,7 @@ title: Letní kempy
 linktitle: kempy
 draft: false
 obrazek: ""
-weight: 2
+weight: 3
 ---
 Letní kempy jsou již v plném proudu, sledujte naš FB a IG uvidíte :-)\
 Informace ke kempům, které se chystají, naleznete v [rezervačním systému](https://brezanek.webooker.eu/Courses?semesterID=10809). \

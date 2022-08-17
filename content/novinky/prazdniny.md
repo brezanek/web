@@ -1,8 +1,8 @@
 ---
-title: Hurá prázdniny!
-linktitle: prazdniny
+title: Den otevřených dveří
+linktitle: "akce pro rodiny "
 draft: false
 obrazek: ""
 weight: 1
 ---
-![](/assets/media/baner_leto.jpg)
+![](/assets/media/obrazky_web.jpg)

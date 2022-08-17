@@ -7,4 +7,4 @@ weight: 4
 ---
 **10, 9, 8, 7.................už  se to blíží!**
 
-![](/assets/media/site_brezanek.jpg)
+![](/assets/media/obrazky_web-1-.jpg)

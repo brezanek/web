@@ -1,8 +1,10 @@
 ---
-title: Hledáme lektorku
-linktitle: hledame
-draft: true
+title: Začínáme
+linktitle: zacatek_kurzu
+draft: false
 obrazek: ""
-weight: 1
+weight: 4
 ---
-![](/assets/media/inzerat-3-.jpg)
+**10, 9, 8, 7.................už  se to blíží!**
+
+![](/assets/media/site_brezanek.jpg)

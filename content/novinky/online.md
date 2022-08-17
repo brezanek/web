@@ -4,7 +4,7 @@ linktitle: zapisy
 draft: false
 obrazek: ""
 soubory: ""
-weight: 3
+weight: 2
 ---
 S rezervacemi si pospěšte:-)
 
